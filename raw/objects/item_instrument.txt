@@ -1,0 +1,5 @@
+item_instrument
+[OBJECT:ITEM]
+[ITEM_INSTRUMENT:ITEM_INSTRUMENT]
+[NAME:instrument:instruments]
+[HARD_MAT]

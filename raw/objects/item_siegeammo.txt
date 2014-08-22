@@ -1,0 +1,5 @@
+item_siegeammo
+[OBJECT:ITEM]
+[ITEM_SIEGEAMMO:ITEM_SIEGEAMMO_BALLISTA]
+[NAME:ballista arrow:ballista arrows]
+[CLASS:BALLISTA]
