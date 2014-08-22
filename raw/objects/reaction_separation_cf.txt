@@ -1,0 +1,35 @@
+reaction_separation_cf
+[OBJECT:REACTION]
+-- THis workshop is used to separate mithril and levisium from their native ores
+--  something that cannot be done at a normal smelter, as it requires emen aren to do
+-- There is only a 20% chance that you'll get usable mithril from truesilver
+--   Test...maybe a smaller amount of mithril bars is possible? Must try it.
+[REACTION:SEPARATE_TRUESILVER]
+[NAME:separate mithril from truesilver]
+[BUILDING:CHAMBER_SEPARATION:CUSTOM_M]
+[REAGENT:A:1:BLOCKS:NO_SUBTYPE:INORGANIC:TRUESILVER]
+[REAGENT:emen aren:150:LIQUID_MISC:NO_SUBTYPE:INORGANIC:EMEN_AREN]
+[REAGENT:emen aren container:1:NONE:NONE:NONE:NONE]
+[CONTAINS:emen aren]
+[PRESERVE_REAGENT]
+[DOES_NOT_DETERMINE_PRODUCT_AMOUNT]
+[PRODUCT:100:1:BAR:NO_SUBTYPE:METAL:SILVER]
+[PRODUCT_DIMENSION:150]
+[PRODUCT:20:1:BAR:NO_SUBTYPE:METAL:MITHRIL]
+[PRODUCT_DIMENSION:150]
+[SKILL:ALCHEMY]
+-- 33% chance for Levisium from Levitite
+[REACTION:SEPARATE_LEVITITE]
+[NAME:separate levisium from levitite]
+[BUILDING:CHAMBER_SEPARATION:CUSTOM_L]
+[REAGENT:A:1:BLOCKS:NO_SUBTYPE:INORGANIC:LEVITITE]
+[REAGENT:emen aren:150:LIQUID_MISC:NO_SUBTYPE:INORGANIC:EMEN_AREN]
+[REAGENT:emen aren container:1:NONE:NONE:NONE:NONE]
+[CONTAINS:emen aren]
+[PRESERVE_REAGENT]
+[DOES_NOT_DETERMINE_PRODUCT_AMOUNT]
+[PRODUCT:100:1:BAR:NO_SUBTYPE:METAL:COPPER]
+[PRODUCT_DIMENSION:150]
+[PRODUCT:33:1:BAR:NO_SUBTYPE:METAL:LEVISIUM]
+[PRODUCT_DIMENSION:150]
+[SKILL:ALCHEMY]

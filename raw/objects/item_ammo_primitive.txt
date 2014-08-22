@@ -1,0 +1,12 @@
+item_ammo_primitive
+[OBJECT:ITEM]
+[ITEM_AMMO:ITEM_AMMO_BULLETS]
+[NAME:bullet:bullets]
+[CLASS:BULLET]
+[SIZE:85]
+[ATTACK:BLUNT:5:500:smash:smashes:NO_SUB:1000]
+[ITEM_AMMO:ITEM_AMMO_JAVELINS]
+[NAME:javelin:javelins]
+[CLASS:JAVELIN]
+[SIZE:400]
+[ATTACK:EDGE:20:1000:stab:stabs:NO_SUB:800]

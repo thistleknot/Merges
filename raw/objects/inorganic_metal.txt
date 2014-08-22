@@ -1,4 +1,5 @@
 inorganic_metal
+-- This file has been changed for Civilization Forge
 [OBJECT:INORGANIC]
 Dwarfoloid picked out a lot of the material numbers here to replace my placeholders.
 Colors added by Bohandas.
@@ -280,6 +281,7 @@ shear modulus 27 GPa
 [ITEMS_AMMO]
 [ITEMS_DIGGER]
 [ITEMS_ARMOR]
+[ITEMS_ANVIL]
 [ITEMS_HARD]
 [ITEMS_METAL]
 [ITEMS_BARRED]

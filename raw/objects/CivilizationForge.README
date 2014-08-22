@@ -1,0 +1,376 @@
+Civilization Forge v2.8
+Compatible with Dwarf Fortress version 0.34.09+
+
+About the Mod
+  Civilization Forge is a Major Mod designed to enhance and expand upon vanilla Dwarf Fortress. It includes many new races, animals, plants, stones, armor, and weapons as well as many balance fixes. The mod now includes an Ironworks revamp, Alchemy, and a Library/Training Dummy system to help train difficult skills and keep rarely used skills sharp.
+
+
+
+2.8 Does some balance tweaks to ranged combat, adds in a new heavy crossbow, and includes many bug fixes.
+
+For questions or comments about the mod, please visit the official forum thread on it: http://www.bay12forums.com/smf/index.php?topic=31157.0;topicseen
+
+
+-------------------------------------------------------------------
+Installation
+-------------------------------------------------------------------
+Simply copy these files into your Dwarf Fortress raw/objects folder. You will need to overwrite some of the existing files for this mod to work.
+
+Please note that while any of the race creature/entity file combinations can be ommited, ommitting any of the other _cf files may cause problems. The item files in particular will cause errors if left out since all of the existing and new races use some aspect of those files.
+
+NOTE: This is a major mod and is NOT compatible with any previous saves. You will need to generate a new world for this mod to take effect. Because there have been some file additions/subtractions, I reccommend installing this mod into a clean install of DF and not over a previous install of Civilization Forge.
+
+
+-------------------------------------------------------------------
+Features
+-------------------------------------------------------------------
+
+New Races
+
+    * High Elves - Noble and Wise, the high elves are a little more similar to Humans then their woodland cousins, living in cities and using metal weapons and armor. They are known for forging weapons of great beauty and power. They will accept items made of wood, but still hold life in high regard.
+    * Silver Xelics - A strange race of Insectoids, these creatures live in the wetlands of the world. While at peace with the world, like elves, they do not seem to mind other races use of wood and animals as much.
+    * Vamarii - A race of ice-dwelling fox-like humanoids, they live off of the land and sea. When the snows melt, they bring caravans of goods to trade for dwarven crafts, metals, and weapons.
+    * Chaos Dwarves - A twisted branch of dwarves twisted by the powers of chaos. They have no honor, black souls, and foul tempers. Some few are even rumored to be possessed by demonic spirits, and possess unholy strength.
+    * Hobgoblins - A cruel but noble race, the Hobgoblins have more honor then their smaller cousins. They do not hold with the thieving ways of goblins, and will not approach an enemy until it is rich enough to be worthwhile attacking. When they come, however, it is in force.
+    * Bugbears - Large and brutish, unskilled in metalworking, they attempt to take what they cannot make themselves. They are found in the deep forests of the world.
+    * Dyansauri - A race of Savage saurian warriors who live to fight and die in battle. They do not sneak, they do not steal, and should they war upon you they will come swiftly and in great numbers.
+    * Violet Xelics - Evil kindred to the Silver Xelics, the Violet ones make dark fortresses within the swamps of the world. They rarely use armor, nor do they need it. Unlike goblins, a single Xelic is more then a match for a dwarf, and fighting them should be done cautiously.
+    * Frost Giants - Twice as large as a dwarf, and with hearts as cold as the glaciers they live on. Frost giants generally keep to their frozen strongholds, but any who incur their wrath have cause to fear their strength.
+    * Sand Raiders - A mysterious race of robed humanoids that lives in the deserts of the world. They frequently raid surrounding settlements. They are very stealthy, and even their sieges are done in stealth.
+    * Zephyrs - a mountain dwelling race of intelligent rodents. They're thieves like Kobalds, and usually killed for the vermin they are.
+    * Jawas - a strange desert dwelling race. They sometimes sneak into the settlements of other races to steal things, or perhaps just cause a bit of mischief...
+    * Beastmen - Goatmen driven insane by foul magic. They are cunning and capable of using Wrought Iron, but cannot stand other races and constantly war with everyone aroud them
+    * Animal Men (Bearmen, Frogmen, Goatmen, Jackalmen, Lizardmen, Monkeymen, Raccoonmen, Ravenmen, Snakemen, Squirrelmen, Tigermen, Wolfmen). These Primitive civilizations make up much of the world, but due to their limited technological capabilities tend to suffer at the hands of the more aggressive main races.
+
+
+New Weapons
+
+    * Mattock - A two-handed pick often used by dwarven miners. It is no military weapon, but can still do considerable damage when necessary.
+    * Club - A simple blunt weapon, usually used by more primitive races
+    * Hand Axe - Lighter than a Battle Axe, the hand axe hits with less force but has greater speed.
+    * War Axe - Larger and heavier than a Battle Axe, the war axe is often used two-handed by dwarves.
+    * Raven's Beak - A pole weapon with a hammer-head shaped much like a Raven's Beak. It is useful when fighting armored opponents.
+    * Skullcracker - A dwarven maul that has been adopted by a few other races. The Skullcracker is heavy, and usually used two-handed.
+    * Flambard - A long sword with a blade that is curved like fire.
+    * Falcata - A long bladed sword weighted for hacking.
+    * Falcion - A short, heavy sword weighted for hacking.
+    * Kopesh - An ancient design, the Kopesh is a sword with a sickle-like blade. It is favored by Bugbears, but generally considered inferior by other races.
+    * Bastard Sword - A large sword in-between a long sword and a two-handed sword.
+    * Light Hammer - A civilian work hammer that can be used in combat.
+    * Dire Blade - A humongous sword wielded by the Frost Giants. It is unlikely that any normal creature could use one.
+    * Dire Spear - A humongous spear wielded by the Frost Giants. It is unlikely that any normal creature could use one.
+    * Dire Maul - A humongous hammer wielded by the Frost Giants. It is unlikely that any normal creature could use one.
+    * Dire Axe - A humongous axe wielded by the Frost Giants. It is unlikely that any normal creature could use one.
+    * Dread Star - A humongous spiked mace wielded by the Frost Giants. It is unlikely that any normal creature could use one.
+    * Scorpion Dagger - A thin, pointed dagger used by Sand Raiders to penetrate armor.
+    * Scorpion Blade - A thin, pointed sword used by Sand Raiders to penetrate armor.
+    * Scorpion Spear - A thin, pointed spear used by Sand Raiders to penetrate armor.
+    * Long Bow - A long-limbed bow used by Elves. It fires longer arrows than a normal bow and is more powerful
+    * War Bow - a bow with dagger blades attached to the front. Used by High Elves to improve their archers survivability in melee combat.
+    * Heavy Morningstar - A two-handed version of the morning star. Basically just a large spiked club.
+    * Staff - Used by some humans and High elves staves are a simple weapon. With skill, however, they can still be quite deadly.
+    * Fist Spike - A punch dagger used by dwarves. It utilizes the Strike skill instead of the Dagger skill.
+    * Arbalest - A Heavy Crossbow that fires Broad Bolts. Better at puncturing armor than the standard Crossbow.
+
+
+New Armor
+
+    * Mail Vest - A light vest made of woven chain. It provides less cover than a chain shirt, but requires fewer materials and is considerably lighter.
+    * Mail Hauberk - A long coat made of woven chain. It provides even better protection than a chain shirt, but requires more materials and is considerably heavier.
+    * Scale Armor - A coat of armor made with overlapping scales. It is generally equivalent to chain.
+    * Scale Hauberk - A long coat of armor made with overlapping scales. It is generally equivalent to a chain hauberk.
+    * Lamellar Armor - A coat of armor made with small plates sewn next to each other. It is stiffer than chain, and so provides better protection against blunt attacks. However, it is heavier and less flexible.
+    * Heavy Lamellar Armor - A long coat of Lamellar. It provides great protection, but is quite heavy.
+    * Scale Leggings - Armored leggings made of overlapping scales. Generally equivalent to chain leggings.
+    * Lamellar Leggings - Armored leggings made of small plates sewn togeather. Slightly better than chain leggings, but a bit heavier.
+    * Apron - A work apron often worn by dwarves. It can be made of leather, which provides some amount of protection in combat.
+    * Chain coif - A hood of woven chain. It provides better cover than a metal cap, though it protects less against blunt attacks.
+    * Chain gauntlet - A glove of woven chain. Not as protective as full plate gauntlets, but they are much lighter
+    * Scale gauntlet - A glove of overlapping scales. Not as protective as full plate gauntlets, but they are much lighter
+    * Lamellar gauntlet - A glove of small plates. Not as protective as full plate gauntlets, but they are much lighter
+
+
+New Shields
+
+    * Kite Shield - A large shield with a pointed tip at the bottom. It provides better cover than a standard round shield, but is heavier.
+    * Tower Shield - A very large shield that acts as a portable wall. It provides the best cover, but is very heavy.
+    * Targe - A small round shield, in between a standard Round and a Buckler. It provides decent protection and is fairly light.
+
+
+New Domestic Animals
+
+    * Pig - Cheaper than cows and provide a lot of meat when butchered.
+    * Chicken - No eggs yet, but they are cheap and breed quickly.
+    * Cave Crab - A large domesticated land crab. It can be trained for both hunting and war. It is also bred for its meat and shell (which can be used for moods that require shell)
+    * Giant Beetle - A very large domesticated Beetle. It is used for both war and as a pack animal, and is a match for an armed opponent all on its own.
+    * Sugar Beetle - A large beetle with sweet succulent meat.
+    * Land Strider - A gigantic creature that lives on the temperate plains of the world. It can be tamed and used to haul vast amounts of goods
+
+
+
+New Wild Animals
+
+    * Spike Beetle - A medium sized insect that roams the forests of the world. They can be hostile, but are generally too small to be a threat.
+    * Fire Beetle - A rare beetle found in savage lands. It is generally docile, but can spit a gout of fire when threatened.
+    * Giant Ants - While only a minor pest to an established fortress, they can be a serious hazard to a young outpost. They will attempt to raid your food supplies, and Soldier ants especially can be quite dangerous.
+    * Redstripe Wasp - These medium-sized forest critters can be a serious pest. About the size of a cat, these wasps will raid your fortress for food. Not too dangerous, generally, but their poisonous stings can be deadly.
+    * Giant Wasp - A serious threat found in Savage lands, the Giant Wasp is nearly the size of a dwarf and boasts a deadly poisoned stinger. They will raid your fortress for food. It is recommended that young forts simply appease them with a pile of extra food stuffs well away from the fortress rather than attempt to actually fight the wasps.
+    * Arctic Fox - A white-coated fox that lives in the tundra.
+    * Wolly Mammoth - A huge creature that roams the tundra. It can be tamed and used to haul goods.
+    * Ravens - Large black birds.
+
+New Toy
+
+    * Doll
+
+New Workshops
+
+    * Alchemy Laboratory - Used to perform most Alchemical jobs
+    * Saltpeter Beds - Used to create Saltpeter for Alchemy
+    * Frothing Pool - Used to separate out usable minerals from Cobaltite
+    * Tempering Chamber - Used to create the various Tempered Crystal bars
+    * Separation Chamber - Used to separate Mithral and Levitite from their ores
+    * Infusion Chamber - Creates powerful Elemental metals
+    * Crystal Furnace - Workaround building to make Crystal Glass items, since they are currently bugged in DF
+
+New Stones
+
+    * Nivocite - A bluish magma-proof stone found in igneous extrusive layers
+    * Nightstone - A bright blue stone flecked with sparkling minerals. It is considered valuable, and often used in trade goods and murals.
+    * Verdenite - A dark stone struck through with bright lines of green. It is a good source of Jade.
+    * Lepidolite - A purple variety of Mica, worth a bit more than normal stone
+    * Zinnwaldite - A yellow variety of Mica, worth a bit more than normal stone
+    * Muscovite - A white variety of Mica, worth a bit more than normal stone
+    * Phlogophite - A green variety of Mica, worth a bit more than normal stone
+    * Black Marble
+    * Green Marble
+    * Midnight Blue Marble
+    * Rose Marble
+    * Celestial Marble - A rare and expensive type of marble that seems flecked with stars. However, unlike the other marbles it cannot be used as Flux
+    * Bladestone - A blueish stone found in small clusters. It can be used to make stone weapons.
+    * Flint- A blueish stone found as pockets within Chalk and Limestone. It can be used to make stone weapons.
+    * Alum Shale - An oil shale that can be used to make Alum. This Sedimentary Layer stone is dark blue.
+    * Melanterite - This green stone is often found in veins of coal or iron ore. It is used in alchemy.
+    * Chalcanthite - This blue stone is often found in veins of copper ore. It is used in alchemy.
+    * Truesilver - This purple ore is the only source of Mithril in the world. The mithril must be separated from the silver in the ore in a Separation Chamber
+    * Levitite - This green ore is the only source of Levisium in the world. The levisium must be separated from the copper in the ore in a Separation Chamber
+
+New Gems
+
+    * Amazonite - A green gem found in microcline
+    * Fine Jet - Gem quality Jet
+    * Nightfire - A precious gem occasionally found within clusters of Fine Jet
+    * Frost Crystal - A hardened shard of Elemental Water. It can be combined with iron to make Glacium
+    * Fireheart - A hardened shard of Elemental Fire. It can be combined with iron to make Incendium
+    * Storm Crystal - A hardened shard of Elemental Fire. It can be combined with iron to make Tempestium
+    * Ward Crystal - A hardened shard of Elemental Fire. It can be combined with iron to make Ward Iron
+    * Flare Crystal - A strange glowing gem. It can be combined with Fireheart to make blazing Incendium, a very dangerous material
+
+New Metals & Alloys
+    
+    * Wrought Iron - Work-hardened iron, it is considerably stronger than regular iron. Not as strong as good steel, though
+    * Crucible Steel - A special crucible formed steel made from Ilmenite, Crucible Steel is stronger than regular steel
+    * Mithril - A rare and precious metal, Mithril is stronger than steel and much lighter
+    * Bright Silver - When smelted normally, Truesilver gives Bright Silver. This shiny metal is roughly equivalent to Iron or Bronze, though a good bit lighter
+    * Orihalcum - Mithril can be alloyed with Gold and Platinum to create Orihalcum. This Red metal is dense, but much harder than steel
+    * Royal Bronze - When alloyed with Copper and Tin, Mithril gives you the purple Royal Bronze. This metal is stronger than regular bronze and a bit lighter
+    * Levisium - Nearly weightless, this bright green metal does not make for good weapons. However, it does make for decent armor that won't weigh down the wearer.
+    * Green Copper - When smelted normally, Levitite gives Green Copper. This metal is a bit stronger than copper and a bit lighter.
+    * Verdant Bronze - When alloyed with copper and tin Levisium gives the brilliantly green Verdant Bronze. This metal is slightly lighter than regular bronze, and nearly as strong.
+    * Shimmersteel - When alloyed with iron in the creation of steel, Levesium gives you the glittering Shimmersteel. This metal is slightly lighter than regular steel and nearly as strong.
+    * Tempered Crystal - When tempered properly, Crystal Glass can be made into metallic bars. By themselves these bars are a good bit weaker than bronze or iron.
+    * Blood Crystal - When crystal glass is tempered with Quicksilver you get Blood Crystal. Stronger than iron and razor sharp it makes for superb weapons.
+    * Night Crystal - When crystal glass is tempered with Midnight Elixir you get Night Crystal. Stronger than iron, this dark blue metal makes good armor and blunt weapons.
+    * Void Crystal - When crystal glass is tempered with Quicksilver, Midnight Exlixir, and Black Antimony you get the nearly black Void Crystal. This crystal is stronger and sharper than steel.
+    * Glacium - Imbued with Elemental Water this metal is permanently cold to the touch. It is far superior to Steel.
+    * Incendium - Imbued with Elemental Fire this metal is permanently warm to the touch. Some of the best weapons in the world are made from this metal.
+    * Blazing Incendium - Imbued with Elemental Fire this metal is permanently hot to the touch. It is quite hazardous to work with.
+    * Tempestium - Imbued with Elemental Air this metal crackles with energy. It can only be worked in small amounts, but ammo created with it can pierce the strongest armor.
+    * Ward Iron - Imbued with Elemental Earth this metal is fantastically tough. Some of the best armor in the world is made from this metal.
+    * Elementium - Imbued with all four Elements, this Metal is superior to everything but the fabled Adamantine.
+    
+
+New Plants
+
+    * Glowcaps - Strange glowing mushrooms. They take a long time to grow, and the yield is small, but they produce one of the finest drinks in the world.
+    * Slime Mold - Not very tasty, but edible and grows fast
+    * Cave Bulb - A fragrant bulb that can be milled into spice or brewed into drink
+    * Dark Crystal Grass - A grass-like stalk covered in dark crystals. It can be milled into dark violet dye
+    * Crimson Crystal Grass - A grass-like stalk covered in red crystals. It can be milled into scarlet dye
+    * Verdant Crystal Grass - A grass-like stalk covered in green crystals. It can be milled into jade dye
+    * Golden Crystal Grass - A grass-like stalk covered in golden crystals. It can be milled into gold dye
+    * Web Lichen - A rare underground plant, it can be eaten raw or brewed into firewater.
+    * Raspberry - A temperate berry
+    * Blackberry - A temperate berry
+    * Blueberry - A temperate berry
+    * Cotton - A tropical plant that makes fine cloth
+    * Cinnamon- A tropical shrub that can be milled into spice
+    * Black Pepper Vine - A tropical plant that can be milled into spice
+    * Sugar Cane - A tropical plant that can be processed into sugar, rum, or molasses
+    * Crowberry - A tundra berry.
+    * Lingonberry - A tundra berry that can be eaten raw or processed into syrup
+    * Rime Berry - A rare tundra berry that can be brewed for the finest drink in the world - Winter Wine
+    * Silverwood - A rare tree found only in goodly lands. It's wood is said to be hard as iron, and it is highly prized by the Elves.
+
+Ironworks
+
+    * Iron created at the smelter represents basic iron. Iron can be work-hardened at the Finishing Forge to create Wrought Iron, is in-between regular Iron and Steel.
+    * Steel is no longer created at the Smelter. Instead, I am using some more historically accurate was to create steel.
+    * Pattern-welded steel is created by taking Iron Bars, Pig Iron Bars, and charcoal or coke and hammering them together at the finishing forge to balance out the carbon levels between the two types of iron. This is the most labor intensive way to make steel, and dwarves usually have better options, but can be done if other resources are lacking. 
+    * Pig Iron no longer requires Flux
+    * Two types of Steel are made at the new Crucible furnace. Normal steel is made by taking Iron Bars and Wood and heating them with fuel or magma to add carbon to the iron to make steel. Crucible Steel is a special form of naturally alloyed steel made from Ilmenite (now an iron ore found in gabbro). Crucible Steel is made using Ilmenite, Wood, raw green glass, and fuel/magma. It is stronger than normal steel due to impurities of Vanadium in the Ilmentite.
+    * The new Blast Furnace is a dwarf-only building that allows for large-scale steel production. Six iron ore, six flux stones, and six coke/charcoal are placed into the blast furnace and fired with fuel or magma to create six steel bars. This is by far the most efficient way to make steel, but since it only works in large batches and requires flux you may still find yourself making steel using the other two methods as well.
+    * The new Charcoal furnace is a high efficiency furnace that turns wood into two units of Charcoal, although it is slightly harder to make than a normal wood burning furnace.
+
+Alchemy
+    * Alchemy recipes can be found within the 'Alchemy Basics.txt' file that comes with the mod.
+    * Alchemy is currently used to create the new Metals and is generally optional. However, for those that like complexity it should be a welcome addition to the game.
+	* Alchemy now uses blocks instead of stones due to changes in stone drop rates while mining in DF 34.09+
+
+Libraries
+
+  Libraries can be used to train your dwarves in pretty much any skill. There are two types of libraries, the Hall of Knoweldge and Area specific Libraries.
+
+  The Hall of Knoweldge requires 1 of each book type (medicine, geology, metalworking, agriculture, cloth, wood, alchemy, tactics, administration, engineering, crafting, & cultural),
+   and can train any skill. It's a good general purpose room, but has the disadvantage of requiring many books and it can only be used by one dwarf at a time.
+
+  Area specific Libraries require 5 books of that type, and can only train skills within that subject area. These are more limited than a Hall of Knoweldge, but require far fewer books to create. Having a large library complex with many subject specific libraries can allow for many dwarves to train skills at once.
+
+  Dwarves that are studying will need candles to read by. Candles can be made in a Craftdwarf's workshop out of Wax or Tallow.
+
+  In addition, there is the Scriptorium which allows your dwarves to write their own books. Books require a page material (Paper, Parchment, or Papyrus), Glue and Leather for the binding, and Ink.
+
+Library TSupplies
+
+  Ink can be either Carbon Ink or Iron Gall Ink.
+    Carbon Ink requires Ash, Glue, and a Jar.
+    Iron Gall Ink requires Acacia Seeds, Green Vitriol, and a Jar
+  
+  Parchement is created from Hides at a Tannery. Parchment is stored in Chests/Coffers.
+  
+  Glue can be created from hides or hooves at a Tannery.
+  
+  Paper is created at a Paper Mill.
+    A log is first pressed into Pulp, which can then be made into Paper. Paper is stored in Chests/Coffers.
+    
+  Papyrus is created at a Papyrus Press. Papyrus is stored in Chests/Coffers.  
+
+  Books brought by Traders come packaged in a Manuscript Crate. These crates must be opened at a Library Workbench to get the book out. While books may also be packaged into crates here, it is not necessary for trading and will probably reduce the value of the Manuscript.
+
+Combat Dummies
+
+  There are two types of Combat Training aids available, the Pell and the Quintain.
+
+  A pell is basically a log stuck in the ground. It is useful for weapons and unarmed drills. Performing a drill requires a suitable free weapon to train with. (Note that dwarves will not train with weapons they are equipped with at this time)
+
+  A Quintain is a mechanized pell that uses a Shield and Weapon to help the dwarves train better. Dodging and Shieldwork can be trained at a Quintain along with weapons drills. Requires a Log, Mechanism, Shield, and a wooden Weapon.
+
+New Tool
+    * Jar - Used for Alchemy & Writing Manuscripts. Jars can be created at the Craft Workshop as well as in glass, ceramics, and metal. 
+
+------------------------
+Optional Items
+------------------------
+
+
+New Files are all appended with _cf
+
+
+Changes
+
+    * Bronze, Bismuth Bronze, and Brass now use a more realistic ratio of copper to tin/zinc. It's 4/1, although in reality it should be 9/1.
+    * Ore frequencies and values have been balanced. Ores are now worth less than the smelted metal they produce, and platinum no longer shows up in veins.
+    * Ilmenite is now an ore of iron.
+    * Chert is now bluish and can be used to make rock weapons.
+    * Jet is more valuable, and Obsidian is now a nice dark black
+    * Kimberlite can now show up in large clusters
+    * Above-ground crops have seasons, below-ground crops do not
+    * Chitin is tannable - Courtesy of Lofn
+    * Many balance changes to weapons and materials - Courtesy of Arrkhal.
+    * Tainted dwarves are once again known as Chaos Dwarves
+    * Dwarves have Trapavoid (as do Chaos Dwarves)
+    * Pack Animals now have reasonable carrying capacity
+    * Cows now have a third caste, Oxen. Oxen are castrated males trained as pack animals/wagon pullers. Not useful for much in a fortress other than slaughtering right now, but you'll sometimes see them show up with merchants
+    * Shields are now called Round Shields
+    * Gauntlets are now called Plate Gauntlets
+    * Dwarves can now make Large Daggers
+    * Bronze Colossus no longer has the Soulshard since Toady fixed that bug.  
+    * Bronze can now be used to create Anvils
+    * Iron and Bronze anvils can be cast at the Smelter
+
+Changed Files:
+  b_detail_plan_default.txt
+  creature_domestic.txt
+  creature_equipment.txt
+  creature_large_tropical.txt
+  creature_large_tundra.txt
+  creature_standard.txt
+  entity_default.txt
+  inorganic_metal.txt
+  inorganic_stone_gem.txt
+  inorganic_stone_layer.txt
+  inorganic_stone_mineral.txt
+  item_gloves.txt
+  item_pants.txt
+  item_shield.txt
+  item_trapcomp.txt
+  item_weapon.txt
+  material_template_default.txt
+  plant_standard.txt
+  reaction_smelter.txt
+  
+-----------------
+Version List
+-----------------
+2.01 - Initial 31.03 version
+2.02 - Bugfix version
+  - Fixed plant spelling/name errors
+  - Removed liaisons from Frost Giants
+  - Fixed name issue with bladestone & flint
+  - Increased material size for Lamellar leggings
+  - Fixed max_edge on stone template
+2.1 - Ironworks edition  
+  - Fixed Sugar Beetles to have higher value meat/chitin
+  - Bronze Colossus now has a Soulshard that when destroyed kills the colossus    
+  - Steel is no longer created at the Smelter
+  - Added in Finishing Forge, Crucible, Blast Furnace, and Charcoal Furnace buildings
+  - Iron created at the smelter can no longer be used for weapons and armor.   
+  - Added in Wrought iron as an improved version of iron suitable for weapons and armor
+  - Added in Crucible Steel as a natural steel alloy
+  - Bronze can now be used to make anvils
+  - Iron and Bronze anvils can be cast at the Smelter
+2.2 - Alchemy edition
+  - Added in new metals and ores
+  - Added in new Alchemy workshops
+  - Added in Light hammers and Aprons, while allowing dwarves to make daggers. Civilian weapons are a go!
+  - Adjusted some weapons & materials to handle the 31.10 combat changes  
+  - Removed Soulshard from Bronze Colossus
+2.22 - Minor Edits
+  - Added Long and War bows for the Elves and High Elves
+  - Added the Heavy Morningstar and Staff for some races.
+  - Brought the raws in line with the 31.12 changes
+  - Tweaked some of the civ attributes for Hobgoblins, Chaos Dwarves, and Bugbears 
+2.23 - Minor edits
+  - Fixed a bug where Magma ironworks buildings didn't work
+  - Added in Fist Spikes
+  - Tweaked Entities a little bit
+  - Fixed the price of Bronze
+  - Added in Ravens 
+  - Added in the Optional Filler Stones
+2.3 - Primitive Civilizations
+  - Added in the primitive civs
+  - Added in the Beastmen
+  - Added Ratmen back as an underground civ
+  - Made changes to bring the mod to 31.16
+2.5 - Libraries
+  - Added in Library & related workshops and items
+  - Leather for some creatures (such as Cows, Elephants, and Rhinos) gives better defense and is worth more.
+  - Added some new creatures  
+2.7 - Minor edits
+  - Brings the mod up to DF 34.09+
+  - Changes Alchemy to use Blocks.
+  - Changes output of various Ironworks and Alchemical reactions to be in line with the stone changes of 34.09+
+2.8 - Buxfix and Range Balancing
+  - Fixes many bugs
+  - Rebalances Ranged combat to be more reasonable
+  - Adds in the Arbalest, a new heavy crossbow  

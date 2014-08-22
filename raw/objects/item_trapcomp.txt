@@ -1,5 +1,7 @@
 item_trapcomp
 [OBJECT:ITEM]
+-- This file has been modified for Civilization Forge
+-- Courtesy of Arrkhalz Balance Mod
 [ITEM_TRAPCOMP:ITEM_TRAPCOMP_GIANTAXEBLADE]
 [NAME:axe blade:axe blades]
 [ADJECTIVE:giant]
@@ -17,7 +19,7 @@ item_trapcomp
 [IS_SCREW]
 [WOOD]
 [METAL]
-[ATTACK:EDGE:100:10000:drill:drills:NO_SUB:1000]
+[ATTACK:EDGE:1000:15000:drill:drills:NO_SUB:1000]
 [ITEM_TRAPCOMP:ITEM_TRAPCOMP_SPIKEDBALL]
 [NAME:ball:balls]
 [ADJECTIVE:spiked]
@@ -26,7 +28,8 @@ item_trapcomp
 [MATERIAL_SIZE:4]
 [WOOD]
 [METAL]
-[ATTACK:EDGE:10:200:strike:strikes:NO_SUB:1000]
+[ATTACK:EDGE:750:20000:stab:stabs:NO_SUB:1000]
+[ATTACK:EDGE:3000:5000:smash:smashes:NO_SUB:1000]
 [ITEM_TRAPCOMP:ITEM_TRAPCOMP_LARGESERRATEDDISC]
 [NAME:disc:discs]
 [ADJECTIVE:large, serrated]
@@ -44,4 +47,4 @@ item_trapcomp
 [IS_SPIKE]
 [WOOD]
 [METAL]
-[ATTACK:EDGE:10:6000:stab:stabs:NO_SUB:1000]
+[ATTACK:EDGE:1500:20000:stab:stabs:NO_SUB:1000]

@@ -1,5 +1,6 @@
 item_pants
 [OBJECT:ITEM]
+-- This file has been modified for Civilization Forge
 [ITEM_PANTS:ITEM_PANTS_PANTS]
 [PREPLURAL:pairs of]
 [NAME:trousers:trousers]
@@ -42,4 +43,5 @@ this item doesn't make much sense right now, but there aren't any item types you
 [METAL]
 [LEATHER]
 [BARRED]
+[HARD]
 [STRUCTURAL_ELASTICITY_CHAIN_METAL]

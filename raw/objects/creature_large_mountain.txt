@@ -78,6 +78,7 @@ changed by Igfig
 [ATTACK_PRIORITY:SECOND]
 [ATTACK_FLAG_CANLATCH]
 [CHILD:1]
+[GENERAL_CHILD_NAME:mountain goat kid:mountain goat kids]
 [DIURNAL]
 [HOMEOTHERM:10067]
 [SWIMS_INNATE]

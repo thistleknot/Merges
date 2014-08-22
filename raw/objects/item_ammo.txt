@@ -4,17 +4,18 @@ item_ammo
 [NAME:bolt:bolts]
 [CLASS:BOLT]
 [SIZE:150]
-[ATTACK:EDGE:10:1000:stab:stabs:NO_SUB:1000]
-changed by Joben - Broken Arrow mod
+[ATTACK:EDGE:5:2000:stab:stabs:NO_SUB:1000]
+Edge was 2
 Default penetration is 2000, default edge is 2.
 [ITEM_AMMO:ITEM_AMMO_ARROWS]
 [NAME:arrow:arrows]
 [CLASS:ARROW]
 [SIZE:150]
-[ATTACK:EDGE:10:1000:stab:stabs:NO_SUB:1000]
-changed by Joben - Broken Arrow mod
+[ATTACK:EDGE:5:2000:stab:stabs:NO_SUB:1000]
+Edge was 2
 [ITEM_AMMO:ITEM_AMMO_BLOWDARTS]
 [NAME:blowdart:blowdarts]
 [CLASS:BLOWDART]
 [SIZE:20]
-[ATTACK:EDGE:1:50:stick:sticks:NO_SUB:1000]
+[ATTACK:EDGE:2:50:stick:sticks:NO_SUB:1000]
+Edge was 1

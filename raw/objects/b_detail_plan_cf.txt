@@ -1,0 +1,6 @@
+b_detail_plan_cf
+[OBJECT:BODY_DETAIL_PLAN]
+[BODY_DETAIL_PLAN:TAIL_FEATHER_TISSUE_LAYERS]
+This command creates tissue layers using tissue token HAIR on every bodypart that has category HEAD.  Categories are strings you type up in the bodypart raws.  The number is a thickness.  You can also place a position or relation token after the thickness, but it isn't required.  You can put multiple tissue layers in each command.  Each one starts with a group token (BY_CATEGORY, BY_TYPE, BY_TOKEN).
+[BP_LAYERS:BY_CATEGORY:TAIL:FEATHER:1:TOP]
+[BP_LAYERS:BY_CATEGORY:TAIL:FEATHER:1:BACK]

@@ -1,0 +1,2 @@
+material_template_plant_cf
+[OBJECT:MATERIAL_TEMPLATE]
