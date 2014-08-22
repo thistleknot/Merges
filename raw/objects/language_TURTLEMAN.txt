@@ -807,7 +807,7 @@ language_TURTLEMAN
 [T_WORD:SPAWN:ivsensil]
 [T_WORD:SPEAR:ytoz]
 [T_WORD:SPELL:kecyeth]
-[T_WORD:SPEW:kenkin]
+
 [T_WORD:SPICE:oyyuqumi]
 [T_WORD:SPIDER:athku]
 [T_WORD:SPIDERY:brabyemo]
@@ -1351,7 +1351,7 @@ language_TURTLEMAN
 [T_WORD:PEAR:inyake]
 [T_WORD:THIMBLE:enyekce]
 [T_WORD:BUNNY:ypihe]
-[T_WORD:BUTTOCK:ykom]
+
 [T_WORD:ROPE:nenkova]
 [T_WORD:STRING:ekshukkance]
 [T_WORD:WIRE:ibmaytupe]

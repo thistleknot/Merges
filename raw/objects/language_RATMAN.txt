@@ -798,7 +798,7 @@ language_RATMAN
 [T_WORD:SPAWN:akisheb]
 [T_WORD:SPEAR:ategarad]
 [T_WORD:SPELL:akega]
-[T_WORD:SPEW:atam]
+
 [T_WORD:SPICE:fenaxapi]
 [T_WORD:SPIDER:ematerabame]
 [T_WORD:SPIDERY:nari]
@@ -1339,7 +1339,7 @@ language_RATMAN
 [T_WORD:PEAR:atanabenab]
 [T_WORD:THIMBLE:tath]
 [T_WORD:BUNNY:aresh]
-[T_WORD:BUTTOCK:atetoleshe]
+
 [T_WORD:ROPE:bidiraram]
 [T_WORD:STRING:ashene]
 [T_WORD:WIRE:bi]

@@ -799,7 +799,7 @@ language_SNAKEMAN
 [T_WORD:SPAWN:oshio]
 [T_WORD:SPEAR:uoroisha]
 [T_WORD:SPELL:uamaasha]
-[T_WORD:SPEW:easoeka]
+
 [T_WORD:SPICE:sionaashu]
 [T_WORD:SPIDER:ihiah]
 [T_WORD:SPIDERY:oash]
@@ -1337,7 +1337,7 @@ language_SNAKEMAN
 [T_WORD:PEAR:iasheisha]
 [T_WORD:THIMBLE:aoneiraih]
 [T_WORD:BUNNY:miesheodooz]
-[T_WORD:BUTTOCK:aobaoya]
+
 [T_WORD:ROPE:adeejia]
 [T_WORD:STRING:eshii]
 [T_WORD:WIRE:apaeb]

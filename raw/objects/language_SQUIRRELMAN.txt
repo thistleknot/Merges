@@ -794,7 +794,7 @@ language_SQUIRRELMAN
 [T_WORD:SPAWN:fikepaner]
 [T_WORD:SPEAR:peyedem]
 [T_WORD:SPELL:deched]
-[T_WORD:SPEW:yadetheg]
+
 [T_WORD:SPICE:gurid]
 [T_WORD:SPIDER:thal]
 [T_WORD:SPIDERY:piy]

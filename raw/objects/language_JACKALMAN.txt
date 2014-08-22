@@ -782,7 +782,7 @@ language_JACKELMAN
 [T_WORD:SPAWN:owivu]
 [T_WORD:SPEAR:amohayeu]
 [T_WORD:SPELL:obacawoe]
-[T_WORD:SPEW:iyetanehi]
+
 [T_WORD:SPICE:onanano]
 [T_WORD:SPIDER:onucomai]
 [T_WORD:SPIDERY:atanushai]
@@ -1312,7 +1312,7 @@ language_JACKELMAN
 [T_WORD:PEAR:ahalathohuo]
 [T_WORD:THIMBLE:ofalao]
 [T_WORD:BUNNY:ahao]
-[T_WORD:BUTTOCK:icunoi]
+
 [T_WORD:ROPE:etonushimo]
 [T_WORD:STRING:osehara]
 [T_WORD:WIRE:eshio]

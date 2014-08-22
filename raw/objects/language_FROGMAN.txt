@@ -800,7 +800,7 @@ language_FROGMAN
 [T_WORD:SPASM:li]
 [T_WORD:SPAWN:nuepoid]
 [T_WORD:SPEAR:owiuguush]
-[T_WORD:SPEW:yoeyoo]
+
 [T_WORD:SPICE:yioyiumuo]
 [T_WORD:SPIDER:ruasoud]
 [T_WORD:SPIDERY:muivau]
@@ -1340,7 +1340,7 @@ language_FROGMAN
 [T_WORD:PEAR:yaoxuip]
 [T_WORD:THIMBLE:guuduom]
 [T_WORD:BUNNY:hioy]
-[T_WORD:BUTTOCK:saipuoru]
+
 [T_WORD:ROPE:peupoow]
 [T_WORD:STRING:shuuy]
 [T_WORD:WIRE:iijuuyi]

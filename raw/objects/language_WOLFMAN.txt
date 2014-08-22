@@ -790,7 +790,7 @@ language_WOLFMAN
 [T_WORD:SPAWN:ixijathoo]
 [T_WORD:SPEAR:oyatohei]
 [T_WORD:SPELL:ayatoda]
-[T_WORD:SPEW:arivefo]
+
 [T_WORD:SPICE:ahajishoi]
 [T_WORD:SPIDER:amolanora]
 [T_WORD:SPIKE:asotemoe]
@@ -1306,7 +1306,7 @@ language_WOLFMAN
 [T_WORD:PEAR:ahuwawo]
 [T_WORD:THIMBLE:omilere]
 [T_WORD:BUNNY:avowaa]
-[T_WORD:BUTTOCK:ohoyowaa]
+
 [T_WORD:ROPE:athoa]
 [T_WORD:STRING:ehole]
 [T_WORD:WIRE:esheboa]

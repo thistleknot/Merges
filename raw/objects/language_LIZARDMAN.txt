@@ -804,7 +804,7 @@ language_LIZARDMAN
 [T_WORD:SPAWN:nahawethi]
 [T_WORD:SPEAR:athenar]
 [T_WORD:SPELL:ithis]
-[T_WORD:SPEW:eshasitha]
+
 [T_WORD:SPICE:amasod]
 [T_WORD:SPIDER:emuthathat]
 [T_WORD:SPIDERY:thahopena]
@@ -1337,7 +1337,7 @@ language_LIZARDMAN
 [T_WORD:PEAR:sanur]
 [T_WORD:THIMBLE:vosuhasagos]
 [T_WORD:BUNNY:otherad]
-[T_WORD:BUTTOCK:lazo]
+
 [T_WORD:ROPE:lathos]
 [T_WORD:STRING:sunino]
 [T_WORD:WIRE:sitoda]

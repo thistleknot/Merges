@@ -805,7 +805,7 @@ language_RAVENMAN
 [T_WORD:SPAWN:deshidyt]
 [T_WORD:SPEAR:gor]
 [T_WORD:SPELL:tinet]
-[T_WORD:SPEW:tucachud]
+
 [T_WORD:SPICE:ganih]
 [T_WORD:SPIDER:huthug]
 [T_WORD:SPIDERY:kam]
@@ -1344,7 +1344,7 @@ language_RAVENMAN
 [T_WORD:PEAR:zibuck]
 [T_WORD:THIMBLE:bitokad]
 [T_WORD:BUNNY:chyzac]
-[T_WORD:BUTTOCK:titek]
+
 [T_WORD:ROPE:wonirozik]
 [T_WORD:STRING:zykob]
 [T_WORD:WIRE:miyexach]

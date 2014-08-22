@@ -790,7 +790,7 @@ language_CRABMAN
 [T_WORD:SPAWN:na'di]
 [T_WORD:SPEAR:agaaciaze]
 [T_WORD:SPELL:aisaaraa]
-[T_WORD:SPEW:a'ce'daati]
+
 [T_WORD:SPICE:naare'shi]
 [T_WORD:SPIDER:caak]
 [T_WORD:SPIDERY:kaeka'ck]
@@ -1307,7 +1307,7 @@ language_CRABMAN
 [T_WORD:PEAR:aiheas'a]
 [T_WORD:THIMBLE:kiiteo]
 [T_WORD:BUNNY:siakaara]
-[T_WORD:BUTTOCK:t'atua]
+
 [T_WORD:ROPE:eta'kaa]
 [T_WORD:STRING:ataushear]
 [T_WORD:WIRE:ta'hea]

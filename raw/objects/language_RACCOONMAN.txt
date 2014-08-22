@@ -797,7 +797,7 @@ language_RACCOONMAN
 [T_WORD:SPAWN:leweco]
 [T_WORD:SPEAR:canaxonora]
 [T_WORD:SPELL:atetasatalo]
-[T_WORD:SPEW:drafa]
+
 [T_WORD:SPICE:ahalasa]
 [T_WORD:SPIDER:carahoso]
 [T_WORD:SPIDERY:rop'rau]
@@ -1331,7 +1331,7 @@ language_RACCOONMAN
 [T_WORD:PEAR:hawafofopa]
 [T_WORD:THIMBLE:afohafae]
 [T_WORD:BUNNY:r'rotatha]
-[T_WORD:BUTTOCK:kujej'a]
+
 [T_WORD:ROPE:awokofalo]
 [T_WORD:STRING:hubasocoi]
 [T_WORD:WIRE:okoo]

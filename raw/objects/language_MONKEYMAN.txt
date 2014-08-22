@@ -808,7 +808,7 @@ language_MONKEYMAN
 [T_WORD:SPAWN:yzo]
 [T_WORD:SPEAR:îudu]
 [T_WORD:SPELL:uemii]
-[T_WORD:SPEW:ashiixoo]
+
 [T_WORD:SPICE:esy]
 [T_WORD:SPIDER:dîushau]
 [T_WORD:SPIDERY:teakeem]
@@ -1353,7 +1353,7 @@ language_MONKEYMAN
 [T_WORD:PEAR:doosoin]
 [T_WORD:THIMBLE:daoliila]
 [T_WORD:BUNNY:aeraop]
-[T_WORD:BUTTOCK:duosha]
+
 [T_WORD:ROPE:aÅziilyah]
 [T_WORD:STRING:un]
 [T_WORD:WIRE:uboabuo]

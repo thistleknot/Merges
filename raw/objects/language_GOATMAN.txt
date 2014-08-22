@@ -800,7 +800,7 @@ language_GOATMAN
 [T_WORD:SPAWN:ara]
 [T_WORD:SPEAR:abumeheb]
 [T_WORD:SPELL:mababag]
-[T_WORD:SPEW:memumamad]
+
 [T_WORD:SPICE:amanaj]
 [T_WORD:SPIDER:bramasha]
 [T_WORD:SPIDERY:hibakugi]
@@ -1335,7 +1335,7 @@ language_GOATMAN
 [T_WORD:PEAR:ahuga]
 [T_WORD:THIMBLE:udihoviwad]
 [T_WORD:BUNNY:sabero]
-[T_WORD:BUTTOCK:gomed]
+
 [T_WORD:ROPE:bramera]
 [T_WORD:STRING:izolaw]
 [T_WORD:WIRE:catagabi]
