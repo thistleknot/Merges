@@ -12,7 +12,7 @@ language_SQUIRRELMAN
 [T_WORD:ANGEL:chifinirib]
 [T_WORD:ANGER:cekunish]
 [T_WORD:ANIMAL:dethedath]
-[T_WORD:ANUS:thikadish]
+
 [T_WORD:APE:ketahid]
 [T_WORD:APPLE:vecamez]
 [T_WORD:ARCH:cipimiset]
@@ -50,7 +50,7 @@ language_SQUIRRELMAN
 [T_WORD:BILE:tikireh]
 [T_WORD:BIN:siyinahath]
 [T_WORD:BIRD:latidid]
-[T_WORD:BITCH:yethatid]
+
 [T_WORD:BLACK:rat]
 [T_WORD:BLADE:mekisesin]
 [T_WORD:BLAZE:fohehed]
@@ -181,7 +181,7 @@ language_SQUIRRELMAN
 [T_WORD:CROSS_ADJ:tifyh]
 [T_WORD:CROW:wegyb]
 [T_WORD:CROWN:fikac]
-[T_WORD:CROTCH:dik]
+
 [T_WORD:CRUCIFY:kamifittit]
 [T_WORD:CRUMBLE:haducidid]
 [T_WORD:CRUSH:zedesih]
@@ -429,7 +429,7 @@ language_SQUIRRELMAN
 [T_WORD:ILL:kiyesan]
 [T_WORD:IMPURE:legekam]
 [T_WORD:INCENSE:pihik]
-[T_WORD:INCEST:riseh]
+
 [T_WORD:INCH:vahethah]
 [T_WORD:INK:yes]
 [T_WORD:INN:cheyyseh]
@@ -574,8 +574,8 @@ language_SQUIRRELMAN
 [T_WORD:NOOSE:cheyixed]
 [T_WORD:NORTH:dim]
 [T_WORD:NOSE:niket]
-[T_WORD:NUDE:nimawish]
-[T_WORD:NUDITY:mechycen]
+
+
 [T_WORD:NULL:damirih]
 [T_WORD:NUMBER:rekep]
 [T_WORD:NURTURE:henish]
@@ -601,7 +601,7 @@ language_SQUIRRELMAN
 [T_WORD:PAINT:namaceh]
 [T_WORD:PALE:shothuy]
 [T_WORD:PALM:dritek]
-[T_WORD:PANDER:mesedidaj]
+
 [T_WORD:PANT:keshish]
 [T_WORD:PANTHER:mitih]
 [T_WORD:PANTS:drikinigeh]
@@ -611,7 +611,7 @@ language_SQUIRRELMAN
 [T_WORD:PEPPER:diviyej]
 [T_WORD:PHLEGM:geded]
 [T_WORD:PIG:tinihyshyh]
-[T_WORD:PISS:brihijes]
+
 [T_WORD:PIT:mapihited]
 [T_WORD:PITCH:chek]
 [T_WORD:PLAGUE:chared]
@@ -659,7 +659,7 @@ language_SQUIRRELMAN
 [T_WORD:RAMPAGE:lakishik]
 [T_WORD:RANDOM:hucem]
 [T_WORD:RANSACK:nifer]
-[T_WORD:RAPE:foshih]
+
 [T_WORD:RAPTOR:sitilit]
 [T_WORD:RAT:hokowiv]
 [T_WORD:RAUNCH:hihag]
@@ -769,14 +769,14 @@ language_SQUIRRELMAN
 [T_WORD:SLIVER:puyav]
 [T_WORD:SLOTH:samec]
 [T_WORD:SLUG:thid]
-[T_WORD:SLUT:diz]
+
 [T_WORD:SMASH:ceshidyredih]
 [T_WORD:SMILE:deyif]
 [T_WORD:SMITH:tiyihig]
 [T_WORD:SMOKE:shikah]
 [T_WORD:SMOOTH:dalather]
 [T_WORD:SMOULDER:havehus]
-[T_WORD:SMUT:chayud]
+
 [T_WORD:SNACK:mitec]
 [T_WORD:SNAKE:retith]
 [T_WORD:SNEER:hoshek]
@@ -942,7 +942,7 @@ language_SQUIRRELMAN
 [T_WORD:VIPER:mud]
 [T_WORD:VOICE:sicheter]
 [T_WORD:VOID:gocey]
-[T_WORD:VOID_VERB:henaner]
+
 [T_WORD:VOLCANO:dichich]
 [T_WORD:VOMIT:kesifoth]
 [T_WORD:VULTURE:sirettuc]
@@ -969,7 +969,7 @@ language_SQUIRRELMAN
 [T_WORD:WHISKY:bekehitt]
 [T_WORD:WHISPER:thek]
 [T_WORD:WHITE:yagey]
-[T_WORD:WHORE:binit]
+
 [T_WORD:WICKED:demelir]
 [T_WORD:WILD:yuttes]
 [T_WORD:WILL:mibyth]
@@ -989,7 +989,7 @@ language_SQUIRRELMAN
 [T_WORD:YEAR:sychateg]
 [T_WORD:YEARLING:kyh]
 [T_WORD:YELLOW:brehit]
-[T_WORD:YOR:kiheshan]
+
 [T_WORD:YOUNG:thisyth]
 [T_WORD:YOUTH:drec]
 [T_WORD:ZEAL:nithemib]
@@ -1273,7 +1273,7 @@ language_SQUIRRELMAN
 [T_WORD:INCONSIDERATE:hiram]
 [T_WORD:INCONVENIENT:churey]
 [T_WORD:CONTINENT:dithethiy]
-[T_WORD:INCONTINENT:rifiz]
+
 [T_WORD:FLIGHT:vetishirachin]
 [T_WORD:GILD:hineseziv]
 [T_WORD:GUILD:decez]

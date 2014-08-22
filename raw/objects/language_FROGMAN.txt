@@ -12,7 +12,7 @@ language_FROGMAN
 [T_WORD:ANGEL:yoi]
 [T_WORD:ANGER:ailoos]
 [T_WORD:ANIMAL:iuwou]
-[T_WORD:ANUS:oiy]
+
 [T_WORD:APE:muepuiyue]
 [T_WORD:APPLE:imiu]
 [T_WORD:ARCH:uipuageos]
@@ -49,7 +49,7 @@ language_FROGMAN
 [T_WORD:BILE:auhuu]
 [T_WORD:BIN:siidi]
 [T_WORD:BIRD:puapuuvuupu]
-[T_WORD:BITCH:igooruupuin]
+
 [T_WORD:BLACK:guuyoineuk]
 [T_WORD:BLADE:theameoya]
 [T_WORD:BLAZE:peokuuzu]
@@ -182,7 +182,7 @@ language_FROGMAN
 [T_WORD:CROSS_ADJ:uguoni]
 [T_WORD:CROW:deuwi]
 [T_WORD:CROWN:uogoomu]
-[T_WORD:CROTCH:iuth]
+
 [T_WORD:CRUCIFY:ouyuipuu]
 [T_WORD:CRUMBLE:deumie]
 [T_WORD:CRUSH:ootooyiu]
@@ -429,7 +429,7 @@ language_FROGMAN
 [T_WORD:ILL:riihuo]
 [T_WORD:IMPURE:eo]
 [T_WORD:INCENSE:puomuu]
-[T_WORD:INCEST:aunai]
+
 [T_WORD:INCH:ruugieshi]
 [T_WORD:INK:oihiu]
 [T_WORD:INN:guuy]
@@ -575,8 +575,8 @@ language_FROGMAN
 [T_WORD:NOOSE:uyuiyouyeo]
 [T_WORD:NORTH:brioloupuewu]
 [T_WORD:NOSE:peeniuck]
-[T_WORD:NUDE:uduuyuap]
-[T_WORD:NUDITY:eopaupo]
+
+
 [T_WORD:NULL:reomuupeom]
 [T_WORD:NUMBER:yiizuop]
 [T_WORD:NURTURE:uag]
@@ -604,7 +604,7 @@ language_FROGMAN
 [T_WORD:PAIN:tuos]
 [T_WORD:PAINT:seeniuse]
 [T_WORD:PALM:suum]
-[T_WORD:PANDER:yoeyoise]
+
 [T_WORD:PANT:giogui]
 [T_WORD:PANTHER:heuni]
 [T_WORD:PANTS:muewuu]
@@ -614,7 +614,7 @@ language_FROGMAN
 [T_WORD:PEPPER:paewiohi]
 [T_WORD:PHLEGM:guuduusio]
 [T_WORD:PIG:uweo]
-[T_WORD:PISS:pooweeluun]
+
 [T_WORD:PIT:duoyoudu]
 [T_WORD:PITCH:ooyuuviel]
 [T_WORD:PLAGUE:ohuowu]
@@ -661,7 +661,7 @@ language_FROGMAN
 [T_WORD:RAMPAGE:yuupiuck]
 [T_WORD:RANDOM:xuinui]
 [T_WORD:RANSACK:ufuu]
-[T_WORD:RAPE:oyueyoe]
+
 [T_WORD:RAPTOR:umuat]
 [T_WORD:RAT:iiweuv]
 [T_WORD:RAUNCH:niodi]
@@ -776,14 +776,14 @@ language_FROGMAN
 [T_WORD:SLIVER:fuev]
 [T_WORD:SLOTH:im]
 [T_WORD:SLUG:aluoyuo]
-[T_WORD:SLUT:yeuri]
+
 [T_WORD:SMASH:iwuey]
 [T_WORD:SMILE:uiyuisoupi]
 [T_WORD:SMITH:eego]
 [T_WORD:SMOKE:teukuihuiy]
 [T_WORD:SMOOTH:eyiisuey]
 [T_WORD:SMOULDER:nuowoahe]
-[T_WORD:SMUT:ugu]
+
 [T_WORD:SNACK:xiemae]
 [T_WORD:SNAKE:iruayuep]
 [T_WORD:SNEER:wioluesuu]
@@ -951,7 +951,7 @@ language_FROGMAN
 [T_WORD:VIPER:sei]
 [T_WORD:VOICE:viirui]
 [T_WORD:VOID:leuliow]
-[T_WORD:VOID_VERB:tuoloo]
+
 [T_WORD:VOLCANO:suol]
 [T_WORD:VOMIT:puuniiw]
 [T_WORD:VULTURE:uwuisiewii]
@@ -980,7 +980,7 @@ language_FROGMAN
 [T_WORD:WHISKY:uesuuleovo]
 [T_WORD:WHISPER:vuuzuug]
 [T_WORD:WHITE:yuigu]
-[T_WORD:WHORE:uoyiuwo]
+
 [T_WORD:WICKED:duolo]
 [T_WORD:WILD:uniexei]
 [T_WORD:WILL:iloa]
@@ -1000,7 +1000,7 @@ language_FROGMAN
 [T_WORD:YEAR:eutii]
 [T_WORD:YEARLING:so]
 [T_WORD:YELLOW:bruoreesu]
-[T_WORD:YOR:gueyuo]
+
 [T_WORD:YOUNG:ouviotuiyuo]
 [T_WORD:YOUTH:suinuupiuy]
 [T_WORD:ZEAL:oawuumu]
@@ -1286,7 +1286,7 @@ language_FROGMAN
 [T_WORD:INCONSIDERATE:tuun]
 [T_WORD:INCONVENIENT:yaono]
 [T_WORD:CONTINENT:suul]
-[T_WORD:INCONTINENT:muo]
+
 [T_WORD:FLIGHT:siewu]
 [T_WORD:GILD:uohoo]
 [T_WORD:GUILD:yeu]

@@ -12,7 +12,7 @@ language_LIZARDMAN
 [T_WORD:ANGEL:thehe]
 [T_WORD:ANGER:modihi]
 [T_WORD:ANIMAL:pezofathiman]
-[T_WORD:ANUS:monakuthihu]
+
 [T_WORD:APE:athihithaco]
 [T_WORD:APPLE:shahareshoh]
 [T_WORD:ARCH:emotedoni]
@@ -50,7 +50,7 @@ language_LIZARDMAN
 [T_WORD:BILE:seshimahi]
 [T_WORD:BIN:ethirotheza]
 [T_WORD:BIRD:ovethewoke]
-[T_WORD:BITCH:shole]
+
 [T_WORD:BLACK:lihemide]
 [T_WORD:BLADE:latho]
 [T_WORD:BLAZE:me]
@@ -182,7 +182,7 @@ language_LIZARDMAN
 [T_WORD:CROSS_ADJ:okaf]
 [T_WORD:CROW:osopa]
 [T_WORD:CROWN:ireho]
-[T_WORD:CROTCH:erolatha]
+
 [T_WORD:CRUCIFY:rivishanath]
 [T_WORD:CRUMBLE:avonithi]
 [T_WORD:CRUSH:rirada]
@@ -431,7 +431,7 @@ language_LIZARDMAN
 [T_WORD:ILL:ageso]
 [T_WORD:IMPURE:hilirethoth]
 [T_WORD:INCENSE:thalatol]
-[T_WORD:INCEST:hasehas]
+
 [T_WORD:INCH:las]
 [T_WORD:INK:salelothe]
 [T_WORD:INN:elaba]
@@ -576,8 +576,8 @@ language_LIZARDMAN
 [T_WORD:NOOSE:thamalath]
 [T_WORD:NORTH:getha]
 [T_WORD:NOSE:ohifi]
-[T_WORD:NUDE:higadano]
-[T_WORD:NUDITY:ososash]
+
+
 [T_WORD:NULL:ithosof]
 [T_WORD:NUMBER:havoshe]
 [T_WORD:NURTURE:esh]
@@ -606,7 +606,7 @@ language_LIZARDMAN
 [T_WORD:PAINT:susi]
 [T_WORD:PALE:umithi]
 [T_WORD:PALM:lathuhothitha]
-[T_WORD:PANDER:adosharivaw]
+
 [T_WORD:PANT:ashafopo]
 [T_WORD:PANTHER:ikamelegah]
 [T_WORD:PANTS:hashara]
@@ -616,7 +616,7 @@ language_LIZARDMAN
 [T_WORD:PEPPER:rod]
 [T_WORD:PHLEGM:asaha]
 [T_WORD:PIG:ore]
-[T_WORD:PISS:isith]
+
 [T_WORD:PIT:enin]
 [T_WORD:PITCH:ros]
 [T_WORD:PLAGUE:nathosesh]
@@ -663,7 +663,7 @@ language_LIZARDMAN
 [T_WORD:RAMPAGE:dethula]
 [T_WORD:RANDOM:notheh]
 [T_WORD:RANSACK:esor]
-[T_WORD:RAPE:urovofa]
+
 [T_WORD:RAPTOR:lanus]
 [T_WORD:RAT:fisho]
 [T_WORD:RAUNCH:alethenas]
@@ -779,14 +779,14 @@ language_LIZARDMAN
 [T_WORD:SLIVER:rafa]
 [T_WORD:SLOTH:azodopab]
 [T_WORD:SLUG:othamoh]
-[T_WORD:SLUT:amayerat]
+
 [T_WORD:SMASH:usa]
 [T_WORD:SMILE:onorinishoma]
 [T_WORD:SMITH:ishipihe]
 [T_WORD:SMOKE:shi]
 [T_WORD:SMOOTH:hiles]
 [T_WORD:SMOULDER:athathithiri]
-[T_WORD:SMUT:lihom]
+
 [T_WORD:SNACK:ma]
 [T_WORD:SNAKE:helith]
 [T_WORD:SNEER:osaho]
@@ -954,7 +954,7 @@ language_LIZARDMAN
 [T_WORD:VIPER:ahehega]
 [T_WORD:VOICE:diseji]
 [T_WORD:VOID:oshodose]
-[T_WORD:VOID_VERB:erashadama]
+
 [T_WORD:VOLCANO:vugupopo]
 [T_WORD:VOMIT:hotha]
 [T_WORD:VULTURE:voshatinora]
@@ -983,7 +983,7 @@ language_LIZARDMAN
 [T_WORD:WHISKY:rolesabiriw]
 [T_WORD:WHISPER:asosho]
 [T_WORD:WHITE:nath]
-[T_WORD:WHORE:shefos]
+
 [T_WORD:WICKED:sasoxatiri]
 [T_WORD:WILD:sharinoki]
 [T_WORD:WILL:eshadaxemisho]
@@ -1003,7 +1003,7 @@ language_LIZARDMAN
 [T_WORD:YEAR:ovurulo]
 [T_WORD:YEARLING:atholes]
 [T_WORD:YELLOW:erashosha]
-[T_WORD:YOR:arimate]
+
 [T_WORD:YOUNG:exathal]
 [T_WORD:YOUTH:ganisothiv]
 [T_WORD:ZEAL:eses]
@@ -1282,7 +1282,7 @@ language_LIZARDMAN
 [T_WORD:INCONSIDERATE:thasha]
 [T_WORD:INCONVENIENT:ro]
 [T_WORD:CONTINENT:afubasha]
-[T_WORD:INCONTINENT:thovi]
+
 [T_WORD:FLIGHT:asesha]
 [T_WORD:FLIGHTY:adapashome]
 [T_WORD:GILD:ethusar]

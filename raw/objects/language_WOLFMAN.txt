@@ -12,7 +12,7 @@ language_WOLFMAN
 [T_WORD:ANGEL:elahi]
 [T_WORD:ANGER:itharethanao]
 [T_WORD:ANIMAL:adeu]
-[T_WORD:ANUS:owowavo]
+
 [T_WORD:APE:osa]
 [T_WORD:APPLE:uwa]
 [T_WORD:ARCH:elahevetu]
@@ -50,7 +50,7 @@ language_WOLFMAN
 [T_WORD:BILE:etoxahi]
 [T_WORD:BIN:anuyai]
 [T_WORD:BIRD:amoyani]
-[T_WORD:BITCH:atanea]
+
 [T_WORD:BLACK:amua]
 [T_WORD:BLADE:ihahiyae]
 [T_WORD:BLAZE:ehirao]
@@ -178,7 +178,7 @@ language_WOLFMAN
 [T_WORD:CROSS_ADJ:uvevijiha]
 [T_WORD:CROW:awimewilao]
 [T_WORD:CROWN:ovame]
-[T_WORD:CROTCH:onepa]
+
 [T_WORD:CRUCIFY:ashomaa]
 [T_WORD:CRUMBLE:obimo]
 [T_WORD:CRUSH:athee]
@@ -422,7 +422,7 @@ language_WOLFMAN
 [T_WORD:ILL:oshatayoshe]
 [T_WORD:IMPURE:oleyosiya]
 [T_WORD:INCENSE:ohowua]
-[T_WORD:INCEST:ajasayayo]
+
 [T_WORD:INCH:ihawayoo]
 [T_WORD:INK:ewathapo]
 [T_WORD:INN:avijuhela]
@@ -566,8 +566,8 @@ language_WOLFMAN
 [T_WORD:NOOSE:asoyiho]
 [T_WORD:NORTH:ahanua]
 [T_WORD:NOSE:owahoo]
-[T_WORD:NUDE:ohahahe]
-[T_WORD:NUDITY:uvovexaneo]
+
+
 [T_WORD:NULL:onasothe]
 [T_WORD:NUMBER:omedohenu]
 [T_WORD:NURTURE:ivenehosho]
@@ -595,7 +595,7 @@ language_WOLFMAN
 [T_WORD:PAINT:atabohaso]
 [T_WORD:PALE:ilashayasa]
 [T_WORD:PALM:ehowia]
-[T_WORD:PANDER:othivelomua]
+
 [T_WORD:PANT:ilalamaa]
 [T_WORD:PANTHER:opanahawa]
 [T_WORD:PANTS:anawohe]
@@ -604,7 +604,7 @@ language_WOLFMAN
 [T_WORD:PEPPER:olezase]
 [T_WORD:PHLEGM:asipe]
 [T_WORD:PIG:ohuthoa]
-[T_WORD:PISS:otomoe]
+
 [T_WORD:PIT:atoyayi]
 [T_WORD:PITCH:awesehoto]
 [T_WORD:PLAGUE:omofayaha]
@@ -652,7 +652,7 @@ language_WOLFMAN
 [T_WORD:RAMPAGE:atetheo]
 [T_WORD:RANDOM:oshakolasa]
 [T_WORD:RANSACK:apaloe]
-[T_WORD:RAPE:opii]
+
 [T_WORD:RAPTOR:uhareo]
 [T_WORD:RAT:ishamaye]
 [T_WORD:RAUNCH:ethohai]
@@ -767,13 +767,13 @@ language_WOLFMAN
 [T_WORD:SLIVER:irulo]
 [T_WORD:SLOTH:ativewugau]
 [T_WORD:SLUG:owea]
-[T_WORD:SLUT:onohahaya]
+
 [T_WORD:SMASH:amenoa]
 [T_WORD:SMILE:ahuha]
 [T_WORD:SMOKE:ishathovoe]
 [T_WORD:SMOOTH:awofoshuwo]
 [T_WORD:SMOULDER:ohisheo]
-[T_WORD:SMUT:othicovo]
+
 [T_WORD:SNACK:evawanabe]
 [T_WORD:SNAKE:ahuya]
 [T_WORD:SNEER:iyoa]
@@ -935,7 +935,7 @@ language_WOLFMAN
 [T_WORD:VIOLET:ashotowiu]
 [T_WORD:VIPER:ohishinasa]
 [T_WORD:VOID:ovohovu]
-[T_WORD:VOID_VERB:amao]
+
 [T_WORD:VOLCANO:ehuve]
 [T_WORD:VOMIT:inuhimaa]
 [T_WORD:VULTURE:uhoranitha]
@@ -980,7 +980,7 @@ language_WOLFMAN
 [T_WORD:YEAR:otha]
 [T_WORD:YEARLING:orohosha]
 [T_WORD:YELLOW:athosii]
-[T_WORD:YOR:awamia]
+
 [T_WORD:YOUNG:athowoi]
 [T_WORD:YOUTH:urela]
 [T_WORD:ZEAL:obosona]
@@ -1252,7 +1252,7 @@ language_WOLFMAN
 [T_WORD:INCONSIDERATE:ihehiwae]
 [T_WORD:INCONVENIENT:adime]
 [T_WORD:CONTINENT:oxitho]
-[T_WORD:INCONTINENT:atasarie]
+
 [T_WORD:FLIGHT:emia]
 [T_WORD:FLIGHTY:ashuhe]
 [T_WORD:GILD:omese]

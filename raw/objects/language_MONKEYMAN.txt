@@ -12,7 +12,7 @@ language_MONKEYMAN
 [T_WORD:ANGEL:aî]
 [T_WORD:ANGER:ekoah]
 [T_WORD:ANIMAL:xiusheugao]
-[T_WORD:ANUS:diemuameay]
+
 [T_WORD:APE:laabaakii]
 [T_WORD:APPLE:akaosh]
 [T_WORD:ARCH:guebîoh]
@@ -50,7 +50,7 @@ language_MONKEYMAN
 [T_WORD:BILE:noedaagao]
 [T_WORD:BIN:odouthoohii]
 [T_WORD:BIRD:aesoi]
-[T_WORD:BITCH:soashoÅb]
+
 [T_WORD:BLACK:amaokiel]
 [T_WORD:BLADE:caeh]
 [T_WORD:BLAZE:dieleulu]
@@ -183,7 +183,7 @@ language_MONKEYMAN
 [T_WORD:CROSS_ADJ:siera]
 [T_WORD:CROW:nuigaa]
 [T_WORD:CROWN:oekiÅvaash]
-[T_WORD:CROTCH:raimais]
+
 [T_WORD:CRUCIFY:reakeag]
 [T_WORD:CRUMBLE:piithaab]
 [T_WORD:CRUSH:ahoujoejî]
@@ -432,7 +432,7 @@ language_MONKEYMAN
 [T_WORD:ILL:shuashuedÅi]
 [T_WORD:IMPURE:ewoa]
 [T_WORD:INCENSE:tio]
-[T_WORD:INCEST:oathaedayth]
+
 [T_WORD:INCH:oaliuno]
 [T_WORD:INK:oenoemoas]
 [T_WORD:INN:baashu]
@@ -580,8 +580,8 @@ language_MONKEYMAN
 [T_WORD:NOOSE:uawuogoash]
 [T_WORD:NORTH:toibaud]
 [T_WORD:NOSE:dreeboasha]
-[T_WORD:NUDE:eÅvea]
-[T_WORD:NUDITY:doÅnaÅleo]
+
+
 [T_WORD:NULL:egayda]
 [T_WORD:NUMBER:oinya]
 [T_WORD:NURTURE:shoÅlii]
@@ -609,7 +609,7 @@ language_MONKEYMAN
 [T_WORD:PAINT:ohaabe]
 [T_WORD:PALE:dru]
 [T_WORD:PALM:eudau]
-[T_WORD:PANDER:eumoohÅ]
+
 [T_WORD:PANT:voutiyjua]
 [T_WORD:PANTHER:aehaÅ]
 [T_WORD:PANTS:iogaih]
@@ -619,7 +619,7 @@ language_MONKEYMAN
 [T_WORD:PEPPER:kyiliih]
 [T_WORD:PHLEGM:deiho]
 [T_WORD:PIG:yhaowe]
-[T_WORD:PISS:ihea]
+
 [T_WORD:PIT:oshoan]
 [T_WORD:PITCH:maogeyduet]
 [T_WORD:PLAGUE:yk]
@@ -667,7 +667,7 @@ language_MONKEYMAN
 [T_WORD:RAMPAGE:thaesoihauv]
 [T_WORD:RANDOM:maosio]
 [T_WORD:RANSACK:kuiloo]
-[T_WORD:RAPE:joihoal]
+
 [T_WORD:RAPTOR:dauniafai]
 [T_WORD:RAT:miahua]
 [T_WORD:RAUNCH:iatuub]
@@ -783,14 +783,14 @@ language_MONKEYMAN
 [T_WORD:SLIVER:iisui]
 [T_WORD:SLOTH:biedoathaat]
 [T_WORD:SLUG:foet]
-[T_WORD:SLUT:toedîoz]
+
 [T_WORD:SMASH:heeboahaom]
 [T_WORD:SMILE:dauvio]
 [T_WORD:SMITH:hÅa]
 [T_WORD:SMOKE:ieduonaa]
 [T_WORD:SMOOTH:kuomees]
 [T_WORD:SMOULDER:daîkae]
-[T_WORD:SMUT:faekoami]
+
 [T_WORD:SNACK:aesheapia]
 [T_WORD:SNAKE:iohoÅdiom]
 [T_WORD:SNEER:ob]
@@ -988,7 +988,7 @@ language_MONKEYMAN
 [T_WORD:WHISKY:biimi]
 [T_WORD:WHISPER:kaitoa]
 [T_WORD:WHITE:koub]
-[T_WORD:WHORE:thuokoa]
+
 [T_WORD:WICKED:keomauhe]
 [T_WORD:WILD:aebaa]
 [T_WORD:WILL:thea]
@@ -1008,7 +1008,7 @@ language_MONKEYMAN
 [T_WORD:YEAR:oana]
 [T_WORD:YEARLING:kaesa]
 [T_WORD:YELLOW:hîejeo]
-[T_WORD:YOR:hiutoa]
+
 [T_WORD:YOUNG:oguo]
 [T_WORD:YOUTH:iodiiseu]
 [T_WORD:ZEAL:houmaam]
@@ -1296,7 +1296,7 @@ language_MONKEYMAN
 [T_WORD:INCONSIDERATE:Åevuoby]
 [T_WORD:INCONVENIENT:iud]
 [T_WORD:CONTINENT:shuimaeck]
-[T_WORD:INCONTINENT:iisy]
+
 [T_WORD:FLIGHT:roahoiku]
 [T_WORD:FLIGHTY:hoisho]
 [T_WORD:GILD:eameoni]

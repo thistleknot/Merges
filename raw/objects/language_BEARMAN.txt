@@ -12,7 +12,7 @@ language_BEARMAN
 [T_WORD:ANGEL:asao]
 [T_WORD:ANGER:ubegami]
 [T_WORD:ANIMAL:idubigepa]
-[T_WORD:ANUS:iwezai]
+
 [T_WORD:APE:arenuo]
 [T_WORD:APPLE:ugegenuxeu]
 [T_WORD:ARCH:exayacasiwe]
@@ -50,7 +50,7 @@ language_BEARMAN
 [T_WORD:BILE:ogarasara]
 [T_WORD:BIN:evarihu]
 [T_WORD:BIRD:inibasee]
-[T_WORD:BITCH:eleyofema]
+
 [T_WORD:BLACK:odahibei]
 [T_WORD:BLADE:owebexiwa]
 [T_WORD:BLAZE:asau]
@@ -183,7 +183,7 @@ language_BEARMAN
 [T_WORD:CROSS_ADJ:eganegana]
 [T_WORD:CROW:adigu]
 [T_WORD:CROWN:acegebowae]
-[T_WORD:CROTCH:ekane]
+
 [T_WORD:CRUCIFY:ee]
 [T_WORD:CRUMBLE:ehewea]
 [T_WORD:CRUSH:ethusoa]
@@ -427,7 +427,7 @@ language_BEARMAN
 [T_WORD:ILL:emeraweka]
 [T_WORD:IMPURE:idorecau]
 [T_WORD:INCENSE:ahae]
-[T_WORD:INCEST:ererei]
+
 [T_WORD:INCH:iru]
 [T_WORD:INK:aromajuwae]
 [T_WORD:INN:ubalebamu]
@@ -567,8 +567,8 @@ language_BEARMAN
 [T_WORD:NOOSE:enea]
 [T_WORD:NORTH:edave]
 [T_WORD:NOSE:erehea]
-[T_WORD:NUDE:enusemede]
-[T_WORD:NUDITY:imete]
+
+
 [T_WORD:NULL:akuxe]
 [T_WORD:NUMBER:onenuri]
 [T_WORD:NURTURE:adupeme]
@@ -596,7 +596,7 @@ language_BEARMAN
 [T_WORD:PAINT:agubonose]
 [T_WORD:PALE:igizumee]
 [T_WORD:PALM:aredewae]
-[T_WORD:PANDER:esa]
+
 [T_WORD:PANT:ecemise]
 [T_WORD:PANTHER:uropereu]
 [T_WORD:PANTS:uxau]
@@ -606,7 +606,7 @@ language_BEARMAN
 [T_WORD:PEPPER:ivafesuze]
 [T_WORD:PHLEGM:aninoe]
 [T_WORD:PIG:ake]
-[T_WORD:PISS:uniwecu]
+
 [T_WORD:PIT:aredua]
 [T_WORD:PITCH:arotha]
 [T_WORD:PLAGUE:agegoxame]
@@ -652,7 +652,7 @@ language_BEARMAN
 [T_WORD:RAMPAGE:oratuve]
 [T_WORD:RANDOM:emarebe]
 [T_WORD:RANSACK:esagi]
-[T_WORD:RAPE:adewi]
+
 [T_WORD:RAPTOR:ashedinase]
 [T_WORD:RAT:emi]
 [T_WORD:RAUNCH:orereu]
@@ -762,14 +762,14 @@ language_BEARMAN
 [T_WORD:SLITHER:uwadee]
 [T_WORD:SLIVER:anita]
 [T_WORD:SLOTH:igumepehua]
-[T_WORD:SLUT:umoe]
+
 [T_WORD:SMASH:erima]
 [T_WORD:SMILE:aberada]
 [T_WORD:SMITH:erexe]
 [T_WORD:SMOKE:eraa]
 [T_WORD:SMOOTH:agagabea]
 [T_WORD:SMOULDER:erarerei]
-[T_WORD:SMUT:ijemee]
+
 [T_WORD:SNACK:odae]
 [T_WORD:SNEER:eragee]
 [T_WORD:SNOT:egurace]
@@ -926,7 +926,7 @@ language_BEARMAN
 [T_WORD:VIOLENCE:ovesu]
 [T_WORD:VIOLET:oyifanuwe]
 [T_WORD:VOICE:emegehamemi]
-[T_WORD:VOID_VERB:anu]
+
 [T_WORD:VOLCANO:ajirujagee]
 [T_WORD:VOMIT:uwuwee]
 [T_WORD:VULTURE:abea]
@@ -953,7 +953,7 @@ language_BEARMAN
 [T_WORD:WHISK:amoyaa]
 [T_WORD:WHISKY:urebo]
 [T_WORD:WHITE:ubefea]
-[T_WORD:WHORE:ezigamera]
+
 [T_WORD:WICKED:amerea]
 [T_WORD:WILD:agame]
 [T_WORD:WILL:ebaa]
@@ -972,7 +972,7 @@ language_BEARMAN
 [T_WORD:YEAR:orewenuu]
 [T_WORD:YEARLING:azuo]
 [T_WORD:YELLOW:eruxegako]
-[T_WORD:YOR:ugesabu]
+
 [T_WORD:YOUNG:umesarae]
 [T_WORD:YOUTH:erere]
 [T_WORD:ZEAL:egunogea]
@@ -1245,7 +1245,7 @@ language_BEARMAN
 [T_WORD:INCONSIDERATE:enini]
 [T_WORD:INCONVENIENT:ekeheshema]
 [T_WORD:CONTINENT:ibabarae]
-[T_WORD:INCONTINENT:orerodi]
+
 [T_WORD:FLIGHT:egei]
 [T_WORD:FLIGHTY:ebamewe]
 [T_WORD:GILD:eberesa]

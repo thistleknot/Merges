@@ -12,7 +12,7 @@ language_GOATMAN
 [T_WORD:ANGEL:alatir]
 [T_WORD:ANGER:urumuhug]
 [T_WORD:ANIMAL:ebayimapash]
-[T_WORD:ANUS:sa]
+
 [T_WORD:APE:onobabaja]
 [T_WORD:APPLE:ahewama]
 [T_WORD:ARCH:aganafay]
@@ -50,7 +50,7 @@ language_GOATMAN
 [T_WORD:BILE:rulahur]
 [T_WORD:BIN:uka]
 [T_WORD:BIRD:tamorug]
-[T_WORD:BITCH:agomirux]
+
 [T_WORD:BLACK:branigiwaga]
 [T_WORD:BLADE:gahuruhivow]
 [T_WORD:BLAZE:sarariraso]
@@ -181,7 +181,7 @@ language_GOATMAN
 [T_WORD:CROSS_ADJ:vasafoh]
 [T_WORD:CROW:ohasa]
 [T_WORD:CROWN:mawakid]
-[T_WORD:CROTCH:drobarum]
+
 [T_WORD:CRUCIFY:egidalu]
 [T_WORD:CRUMBLE:arahak]
 [T_WORD:CRUSH:brenonagahat]
@@ -428,7 +428,7 @@ language_GOATMAN
 [T_WORD:ILL:babag]
 [T_WORD:IMPURE:ayabaf]
 [T_WORD:INCENSE:adawama]
-[T_WORD:INCEST:brohar]
+
 [T_WORD:INCH:agareta]
 [T_WORD:INK:bahumah]
 [T_WORD:INN:mebamip]
@@ -574,8 +574,8 @@ language_GOATMAN
 [T_WORD:NOOSE:osabathus]
 [T_WORD:NORTH:ak]
 [T_WORD:NOSE:huze]
-[T_WORD:NUDE:agomamal]
-[T_WORD:NUDITY:amubara]
+
+
 [T_WORD:NULL:sugaregosu]
 [T_WORD:NUMBER:egana]
 [T_WORD:NURTURE:ashazobahi]
@@ -604,7 +604,7 @@ language_GOATMAN
 [T_WORD:PAINT:ibaru]
 [T_WORD:PALE:anase]
 [T_WORD:PALM:aduce]
-[T_WORD:PANDER:cibaci]
+
 [T_WORD:PANTHER:ragamal]
 [T_WORD:PANTS:axor]
 [T_WORD:PAPER:amararehad]
@@ -613,7 +613,7 @@ language_GOATMAN
 [T_WORD:PEPPER:sathadaf]
 [T_WORD:PHLEGM:marohape]
 [T_WORD:PIG:bushanab]
-[T_WORD:PISS:oracali]
+
 [T_WORD:PIT:ewapadabad]
 [T_WORD:PITCH:isibav]
 [T_WORD:PLAGUE:emas]
@@ -661,7 +661,7 @@ language_GOATMAN
 [T_WORD:RAMPAGE:onolaga]
 [T_WORD:RANDOM:jal]
 [T_WORD:RANSACK:ahe]
-[T_WORD:RAPE:irawajoni]
+
 [T_WORD:RAPTOR:awimoy]
 [T_WORD:RAT:gasa]
 [T_WORD:RAUNCH:dragasamanu]
@@ -775,14 +775,14 @@ language_GOATMAN
 [T_WORD:SLIVER:axado]
 [T_WORD:SLOTH:isabidar]
 [T_WORD:SLUG:halanebi]
-[T_WORD:SLUT:ezanu]
+
 [T_WORD:SMASH:imaram]
 [T_WORD:SMILE:are]
 [T_WORD:SMITH:oshirayuga]
 [T_WORD:SMOKE:eyagug]
 [T_WORD:SMOOTH:unelo]
 [T_WORD:SMOULDER:bratema]
-[T_WORD:SMUT:ma]
+
 [T_WORD:SNACK:mamubebus]
 [T_WORD:SNAKE:worode]
 [T_WORD:SNEER:alema]
@@ -952,7 +952,7 @@ language_GOATMAN
 [T_WORD:VIPER:olab]
 [T_WORD:VOICE:hab]
 [T_WORD:VOID:shabarago]
-[T_WORD:VOID_VERB:ofatale]
+
 [T_WORD:VOLCANO:barogoshoha]
 [T_WORD:VOMIT:iwiruh]
 [T_WORD:VULTURE:epawuha]
@@ -980,7 +980,7 @@ language_GOATMAN
 [T_WORD:WHISK:agu]
 [T_WORD:WHISPER:razabamu]
 [T_WORD:WHITE:drimaza]
-[T_WORD:WHORE:dramonag]
+
 [T_WORD:WICKED:raharewa]
 [T_WORD:WILD:garecaran]
 [T_WORD:WILL:draranash]
@@ -999,7 +999,7 @@ language_GOATMAN
 [T_WORD:YEAR:brosami]
 [T_WORD:YEARLING:ijidawa]
 [T_WORD:YELLOW:gidesis]
-[T_WORD:YOR:uhamug]
+
 [T_WORD:YOUNG:yem]
 [T_WORD:YOUTH:amurahihuh]
 [T_WORD:ZEAL:asacalub]
@@ -1282,7 +1282,7 @@ language_GOATMAN
 [T_WORD:INCONSIDERATE:areruwohaba]
 [T_WORD:INCONVENIENT:brude]
 [T_WORD:CONTINENT:safavasaw]
-[T_WORD:INCONTINENT:ahemid]
+
 [T_WORD:FLIGHT:yewiho]
 [T_WORD:FLIGHTY:agem]
 [T_WORD:GILD:ibige]

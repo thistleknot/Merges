@@ -12,7 +12,7 @@ language_SNAKEMAN
 [T_WORD:ANGEL:iahaoshoash]
 [T_WORD:ANGER:aeseeh]
 [T_WORD:ANIMAL:doawaashea]
-[T_WORD:ANUS:eajootoid]
+
 [T_WORD:APE:aoshoo]
 [T_WORD:APPLE:faorood]
 [T_WORD:ARCH:mauthai]
@@ -50,7 +50,7 @@ language_SNAKEMAN
 [T_WORD:BILE:eahuosh]
 [T_WORD:BIN:saosh]
 [T_WORD:BIRD:aish]
-[T_WORD:BITCH:ar]
+
 [T_WORD:BLACK:aela]
 [T_WORD:BLADE:aekoash]
 [T_WORD:BLAZE:neishuasa]
@@ -182,7 +182,7 @@ language_SNAKEMAN
 [T_WORD:CROSS_ADJ:othoihea]
 [T_WORD:CROW:iig]
 [T_WORD:CROWN:shui]
-[T_WORD:CROTCH:failoi]
+
 [T_WORD:CRUCIFY:huolaem]
 [T_WORD:CRUMBLE:otheishaotoath]
 [T_WORD:CRUSH:saedior]
@@ -429,7 +429,7 @@ language_SNAKEMAN
 [T_WORD:ILL:laase]
 [T_WORD:IMPURE:voisao]
 [T_WORD:INCENSE:usauhiah]
-[T_WORD:INCEST:ashaa]
+
 [T_WORD:INCH:vaasougea]
 [T_WORD:INK:iesheothaaho]
 [T_WORD:INN:adeiseavao]
@@ -575,8 +575,8 @@ language_SNAKEMAN
 [T_WORD:NOOSE:noithoamii]
 [T_WORD:NORTH:soathoeshei]
 [T_WORD:NOSE:shoaya]
-[T_WORD:NUDE:aashoen]
-[T_WORD:NUDITY:efa]
+
+
 [T_WORD:NULL:ahaashoe]
 [T_WORD:NUMBER:sootheahiav]
 [T_WORD:NURTURE:ashoase]
@@ -605,7 +605,7 @@ language_SNAKEMAN
 [T_WORD:PAINT:ikeothaa]
 [T_WORD:PALE:moigaa]
 [T_WORD:PALM:hoomaole]
-[T_WORD:PANDER:ruishaiho]
+
 [T_WORD:PANT:shoayai]
 [T_WORD:PANTHER:veoth]
 [T_WORD:PANTS:maethoasa]
@@ -615,7 +615,7 @@ language_SNAKEMAN
 [T_WORD:PEPPER:daidounaas]
 [T_WORD:PHLEGM:pao]
 [T_WORD:PIG:azeafo]
-[T_WORD:PISS:heotaomoaha]
+
 [T_WORD:PIT:oidoalaar]
 [T_WORD:PITCH:aadaog]
 [T_WORD:PLAGUE:raah]
@@ -662,7 +662,7 @@ language_SNAKEMAN
 [T_WORD:RAMPAGE:thoahioda]
 [T_WORD:RANDOM:hoiloi]
 [T_WORD:RANSACK:hoeloo]
-[T_WORD:RAPE:osi]
+
 [T_WORD:RAT:aothaaloote]
 [T_WORD:RAUNCH:hoir]
 [T_WORD:RAVAGER:athaash]
@@ -775,14 +775,14 @@ language_SNAKEMAN
 [T_WORD:SLITHER:droo]
 [T_WORD:SLIVER:oonoar]
 [T_WORD:SLOTH:ileasao]
-[T_WORD:SLUT:theowa]
+
 [T_WORD:SMASH:huit]
 [T_WORD:SMILE:haaroidea]
 [T_WORD:SMITH:ianeoro]
 [T_WORD:SMOKE:ataes]
 [T_WORD:SMOOTH:ujaoraaluoh]
 [T_WORD:SMOULDER:otiimao]
-[T_WORD:SMUT:zaisoov]
+
 [T_WORD:SNACK:meoshiosheal]
 [T_WORD:SNAKE:ehiap]
 [T_WORD:SNEER:noashoit]
@@ -951,7 +951,7 @@ language_SNAKEMAN
 [T_WORD:VIPER:loiguapi]
 [T_WORD:VOICE:thoeso]
 [T_WORD:VOID:haapia]
-[T_WORD:VOID_VERB:neahae]
+
 [T_WORD:VOLCANO:theimion]
 [T_WORD:VOMIT:ausei]
 [T_WORD:VULTURE:asaalo]
@@ -978,7 +978,7 @@ language_SNAKEMAN
 [T_WORD:WHISKY:siapoadais]
 [T_WORD:WHISPER:aaree]
 [T_WORD:WHITE:oshee]
-[T_WORD:WHORE:suovaahaetho]
+
 [T_WORD:WICKED:miunae]
 [T_WORD:WILD:uazo]
 [T_WORD:WILL:loatuase]
@@ -998,7 +998,7 @@ language_SNAKEMAN
 [T_WORD:YEAR:thoith]
 [T_WORD:YEARLING:thuahiol]
 [T_WORD:YELLOW:athuitha]
-[T_WORD:YOR:hiarae]
+
 [T_WORD:YOUNG:fearaam]
 [T_WORD:YOUTH:dreosiim]
 [T_WORD:ZEAL:oimiah]
@@ -1281,7 +1281,7 @@ language_SNAKEMAN
 [T_WORD:INCONSIDERATE:aaniifo]
 [T_WORD:INCONVENIENT:shiamaathae]
 [T_WORD:CONTINENT:loic]
-[T_WORD:INCONTINENT:ienookio]
+
 [T_WORD:FLIGHT:imaali]
 [T_WORD:FLIGHTY:ucoodaad]
 [T_WORD:GILD:anae]

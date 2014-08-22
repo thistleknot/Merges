@@ -12,7 +12,7 @@ language_CRABMAN
 [T_WORD:ANGEL:amo]
 [T_WORD:ANGER:naan'ich'ara]
 [T_WORD:ANIMAL:miagu'na]
-[T_WORD:ANUS:ne're]
+
 [T_WORD:APE:aso'k]
 [T_WORD:APPLE:atueneu]
 [T_WORD:ARCH:akeak'a]
@@ -50,7 +50,7 @@ language_CRABMAN
 [T_WORD:BILE:caeraacaack]
 [T_WORD:BIN:riinaasa]
 [T_WORD:BIRD:eachaa]
-[T_WORD:BITCH:ca]
+
 [T_WORD:BLACK:no'chaace]
 [T_WORD:BLADE:aunae]
 [T_WORD:BLAZE:naeceur]
@@ -182,7 +182,7 @@ language_CRABMAN
 [T_WORD:CROSS_VERB:ataan'a]
 [T_WORD:CROSS_ADJ:saut]
 [T_WORD:CROW:qu'eta]
-[T_WORD:CROTCH:quuata]
+
 [T_WORD:CRUCIFY:o'kiaquu]
 [T_WORD:CRUMBLE:h'ote'za]
 [T_WORD:CRUSH:haadaa]
@@ -426,7 +426,7 @@ language_CRABMAN
 [T_WORD:ILL:ara]
 [T_WORD:IMPURE:ushaec]
 [T_WORD:INCENSE:g'ahaahaeme]
-[T_WORD:INCEST:koadaa]
+
 [T_WORD:INCH:kaet'equ]
 [T_WORD:INK:ce'ci]
 [T_WORD:INN:ereace'hae]
@@ -569,8 +569,8 @@ language_CRABMAN
 [T_WORD:NOOSE:eacaa]
 [T_WORD:NORTH:uag'eshaacea]
 [T_WORD:NOSE:shaakeut]
-[T_WORD:NUDE:taama'ka]
-[T_WORD:NUDITY:enueta]
+
+
 [T_WORD:NULL:ataakaak]
 [T_WORD:NUMBER:raa]
 [T_WORD:NURTURE:aarou]
@@ -598,7 +598,7 @@ language_CRABMAN
 [T_WORD:PAINT:ichua]
 [T_WORD:PALE:akaatauck]
 [T_WORD:PALM:equaakeare]
-[T_WORD:PANDER:saeshaik]
+
 [T_WORD:PANT:ahea]
 [T_WORD:PANTHER:ajaachiac]
 [T_WORD:PANTS:sa'do'c]
@@ -608,7 +608,7 @@ language_CRABMAN
 [T_WORD:PEPPER:ec'ehoagaa]
 [T_WORD:PHLEGM:ak'a]
 [T_WORD:PIG:loam]
-[T_WORD:PISS:caar]
+
 [T_WORD:PIT:keica]
 [T_WORD:PITCH:leam]
 [T_WORD:PLAGUE:raataitea]
@@ -653,7 +653,7 @@ language_CRABMAN
 [T_WORD:RAMPAGE:akaan'ataa]
 [T_WORD:RANDOM:ake]
 [T_WORD:RANSACK:l'amaack]
-[T_WORD:RAPE:r'at]
+
 [T_WORD:RAPTOR:a'saesh]
 [T_WORD:RAT:sian'a]
 [T_WORD:RAUNCH:raokaa]
@@ -767,12 +767,12 @@ language_CRABMAN
 [T_WORD:SLIVER:eot'aku]
 [T_WORD:SLOTH:aack]
 [T_WORD:SLUG:miam'ichaiqu]
-[T_WORD:SLUT:a'naar]
+
 [T_WORD:SMILE:as'ema]
 [T_WORD:SMITH:taahaaha]
 [T_WORD:SMOKE:hauqua]
 [T_WORD:SMOULDER:me'qu'ac]
-[T_WORD:SMUT:eada't'a]
+
 [T_WORD:SNACK:hauka'k]
 [T_WORD:SNAKE:aah]
 [T_WORD:SNEER:c'a]
@@ -933,7 +933,7 @@ language_CRABMAN
 [T_WORD:VIPER:g'ataeck]
 [T_WORD:VOICE:saok'akean]
 [T_WORD:VOID:maamiak]
-[T_WORD:VOID_VERB:a'sh'asha]
+
 [T_WORD:VOLCANO:ta]
 [T_WORD:VOMIT:hoichaa]
 [T_WORD:VULTURE:qu'as'u]
@@ -962,7 +962,7 @@ language_CRABMAN
 [T_WORD:WHISKY:aedaaka]
 [T_WORD:WHISPER:anaus'a]
 [T_WORD:WHITE:anu'ja]
-[T_WORD:WHORE:ceera]
+
 [T_WORD:WICKED:ja]
 [T_WORD:WILD:t'aro]
 [T_WORD:WILL:ch'aha'd]
@@ -982,7 +982,7 @@ language_CRABMAN
 [T_WORD:YEAR:bra]
 [T_WORD:YEARLING:haoko't]
 [T_WORD:YELLOW:a'kaema]
-[T_WORD:YOR:ceaseaboe]
+
 [T_WORD:YOUNG:oneach]
 [T_WORD:YOUTH:eraar'iho]
 [T_WORD:ZEAL:a'bea]
@@ -1256,7 +1256,7 @@ language_CRABMAN
 [T_WORD:INCONSIDERATE:u'te'he's]
 [T_WORD:INCONVENIENT:ure'haack]
 [T_WORD:CONTINENT:a'tua]
-[T_WORD:INCONTINENT:r'akii]
+
 [T_WORD:GILD:ataah'et]
 [T_WORD:GUILD:aague]
 [T_WORD:MERCHANT:r'ekiasea]
