@@ -35,3 +35,4 @@ hickory and elm are also good wagon materials, but not in the game
 [TRADE_CAPACITY:15000]
 [MUNDANE]
 elm, hickory, poplar, walnut, sycamore
+[ODOR_LEVEL:0]

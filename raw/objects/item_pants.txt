@@ -45,3 +45,5 @@ this item doesn't make much sense right now, but there aren't any item types you
 [BARRED]
 [HARD]
 [STRUCTURAL_ELASTICITY_CHAIN_METAL]
+[ADJECTIVE:short]
+[ADJECTIVE:long]

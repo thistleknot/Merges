@@ -10,7 +10,7 @@ chrysoprase, jaspers, morion, onyx, prase, quartzes, sard, sardonyx, tiger eye
 JADESJades
 OPALSOpals
 FELDSPARMoonstone, Sunstone
-TOURMALINESTourmalines
+TOURMALINESTourmalines, schorl
 ZIRCONSZircons
 GARNETSGarnets, pyropes, melanite, demantoid, topazolite, grossulars / tsavorite,
 almandine, rhodolite, spessartines
@@ -19,7 +19,7 @@ CHRYSOBERYLSChrysoberyl, alexandrite, cat's eye
 SPINELSSpinels, rubicelle
 CORUNDUMSRuby, sapphire
 DIAMONDSDiamonds
-OTHERSchorl, variscite, chrysocolla, tiger iron, pyrite, peridot, tanzanite, kunzite
+OTHERVariscite, chrysocolla, tiger iron, pyrite, peridot, tanzanite, kunzite
 I'm leaving this data here in case it can someday be used to organize things in the future.
 0-10 ornamental
 [INORGANIC:ONYX]
@@ -318,7 +318,7 @@ Range of about 3200 - 3400
 [MATERIAL_VALUE:20]
 [DISPLAY_COLOR:6:7:1]
 [TILE:15]
-[IS_GEM:topaz:STP:OVERWRITE_SOLID]
+[IS_GEM:topaz:topazes:OVERWRITE_SOLID]
 [ENVIRONMENT_SPEC:GRANITE:CLUSTER_SMALL:100]
 [SOLID_DENSITY:3550]
 Range of 3500 - 3600
