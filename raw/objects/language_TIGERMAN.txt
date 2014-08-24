@@ -12,7 +12,6 @@ language_TIGERMAN
 [T_WORD:ANGEL:giu]
 [T_WORD:ANGER:drozezi]
 [T_WORD:ANIMAL:britewi]
-
 [T_WORD:APE:boshilea]
 [T_WORD:APPLE:getho]
 [T_WORD:ARCH:brebeu]
@@ -50,7 +49,6 @@ language_TIGERMAN
 [T_WORD:BILE:drie]
 [T_WORD:BIN:draqueo]
 [T_WORD:BIRD:drutezemaa]
-
 [T_WORD:BLACK:bisacai]
 [T_WORD:BLADE:zoshekemaa]
 [T_WORD:BLAZE:behethithize]
@@ -182,7 +180,6 @@ language_TIGERMAN
 [T_WORD:CROSS_VERB:poxethae]
 [T_WORD:CROSS_ADJ:madebo]
 [T_WORD:CROWN:tiwuyepe]
-
 [T_WORD:CRUCIFY:patei]
 [T_WORD:CRUMBLE:kebo]
 [T_WORD:CRUSH:manazete]
@@ -429,7 +426,6 @@ language_TIGERMAN
 [T_WORD:ILL:secemexea]
 [T_WORD:IMPURE:lemoku]
 [T_WORD:INCENSE:quecea]
-
 [T_WORD:INCH:zetebae]
 [T_WORD:INK:dutequapo]
 [T_WORD:INN:mikavelo]
@@ -575,8 +571,6 @@ language_TIGERMAN
 [T_WORD:NOOSE:kabe]
 [T_WORD:NORTH:nusisheu]
 [T_WORD:NOSE:thathe]
-
-
 [T_WORD:NULL:suyataboe]
 [T_WORD:NUMBER:yoe]
 [T_WORD:NURTURE:cekoyaco]
@@ -605,7 +599,6 @@ language_TIGERMAN
 [T_WORD:PAINT:saci]
 [T_WORD:PALE:shejelea]
 [T_WORD:PALM:nevabida]
-
 [T_WORD:PANT:yevewo]
 [T_WORD:PANTHER:wizuko]
 [T_WORD:PANTS:rotiboxeo]
@@ -615,7 +608,6 @@ language_TIGERMAN
 [T_WORD:PEPPER:kinaceo]
 [T_WORD:PHLEGM:xiroyazu]
 [T_WORD:PIG:brukapema]
-
 [T_WORD:PIT:vishojae]
 [T_WORD:PITCH:miyumuthu]
 [T_WORD:PLAGUE:yaqueyepui]
@@ -662,7 +654,6 @@ language_TIGERMAN
 [T_WORD:RAMPAGE:semathage]
 [T_WORD:RANDOM:shia]
 [T_WORD:RANSACK:tanalaye]
-
 [T_WORD:RAPTOR:kewukea]
 [T_WORD:RAT:toweshi]
 [T_WORD:RAUNCH:tazaro]
@@ -774,13 +765,11 @@ language_TIGERMAN
 [T_WORD:SLIVER:shutii]
 [T_WORD:SLOTH:shobayekiyeo]
 [T_WORD:SLUG:noshakii]
-
 [T_WORD:SMASH:nilashisa]
 [T_WORD:SMILE:ya]
 [T_WORD:SMITH:tilelae]
 [T_WORD:SMOOTH:yia]
 [T_WORD:SMOULDER:petatezubee]
-
 [T_WORD:SNACK:homaquafeu]
 [T_WORD:SNAKE:timotiyiu]
 [T_WORD:SNEER:mayije]
@@ -798,7 +787,6 @@ language_TIGERMAN
 [T_WORD:SPAWN:rayenavei]
 [T_WORD:SPEAR:zatale]
 [T_WORD:SPELL:tekarasea]
-
 [T_WORD:SPICE:savue]
 [T_WORD:SPIDER:nucoyikii]
 [T_WORD:SPIDERY:nemu]
@@ -946,7 +934,6 @@ language_TIGERMAN
 [T_WORD:VIOLET:vebizacuki]
 [T_WORD:VIPER:tizeo]
 [T_WORD:VOICE:vekenegubui]
-
 [T_WORD:VOLCANO:veshebeyei]
 [T_WORD:VOMIT:takilalu]
 [T_WORD:VULTURE:tucazo]
@@ -974,7 +961,6 @@ language_TIGERMAN
 [T_WORD:WHISKY:verakosha]
 [T_WORD:WHISPER:bruzuu]
 [T_WORD:WHITE:pazeke]
-
 [T_WORD:WICKED:venalimi]
 [T_WORD:WILD:tesumi]
 [T_WORD:WILL:nuvozanu]
@@ -994,7 +980,6 @@ language_TIGERMAN
 [T_WORD:YEAR:nipao]
 [T_WORD:YEARLING:kazihe]
 [T_WORD:YELLOW:mafodonao]
-
 [T_WORD:YOUNG:zixio]
 [T_WORD:YOUTH:jequo]
 [T_WORD:ZEAL:votabameca]
@@ -1272,7 +1257,6 @@ language_TIGERMAN
 [T_WORD:INCONSIDERATE:bisakubi]
 [T_WORD:INCONVENIENT:totixukakie]
 [T_WORD:CONTINENT:yanetecaa]
-
 [T_WORD:FLIGHT:merasimi]
 [T_WORD:GILD:jezarera]
 [T_WORD:GUILD:suthoi]

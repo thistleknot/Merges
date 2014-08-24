@@ -12,7 +12,6 @@ language_RAVENMAN
 [T_WORD:ANGEL:shotawyrup]
 [T_WORD:ANGER:zihoc]
 [T_WORD:ANIMAL:yazid]
-
 [T_WORD:APE:vamexec]
 [T_WORD:APPLE:ciyirah]
 [T_WORD:ARCH:yihudoc]
@@ -50,7 +49,6 @@ language_RAVENMAN
 [T_WORD:BILE:bahel]
 [T_WORD:BIN:fochypepud]
 [T_WORD:BIRD:thanazot]
-
 [T_WORD:BLACK:madiyeb]
 [T_WORD:BLADE:buxupym]
 [T_WORD:BLAZE:pal]
@@ -183,7 +181,6 @@ language_RAVENMAN
 [T_WORD:CROSS_ADJ:they]
 [T_WORD:CROW:kygifeth]
 [T_WORD:CROWN:cheyyl]
-
 [T_WORD:CRUCIFY:pypokurar]
 [T_WORD:CRUMBLE:zod]
 [T_WORD:CRUSH:brecidagof]
@@ -430,7 +427,6 @@ language_RAVENMAN
 [T_WORD:ILL:taveyab]
 [T_WORD:IMPURE:duchawich]
 [T_WORD:INCENSE:nagatax]
-
 [T_WORD:INCH:patoth]
 [T_WORD:INK:vytakanot]
 [T_WORD:INN:gas]
@@ -577,8 +573,6 @@ language_RAVENMAN
 [T_WORD:NOOSE:cuzychised]
 [T_WORD:NORTH:nixyth]
 [T_WORD:NOSE:drutytuz]
-
-
 [T_WORD:NULL:tharim]
 [T_WORD:NUMBER:brapodap]
 [T_WORD:NURTURE:mehih]
@@ -607,7 +601,6 @@ language_RAVENMAN
 [T_WORD:PAINT:lakakomeg]
 [T_WORD:PALE:wacalubev]
 [T_WORD:PALM:kekiz]
-
 [T_WORD:PANT:pik]
 [T_WORD:PANTHER:zyth]
 [T_WORD:PANTS:sheciz]
@@ -617,7 +610,6 @@ language_RAVENMAN
 [T_WORD:PEPPER:yuwuc]
 [T_WORD:PHLEGM:dreshack]
 [T_WORD:PIG:hutaw]
-
 [T_WORD:PIT:yud]
 [T_WORD:PITCH:thibych]
 [T_WORD:PLAGUE:brudoz]
@@ -665,7 +657,6 @@ language_RAVENMAN
 [T_WORD:RAMPAGE:yedytayum]
 [T_WORD:RANDOM:neyethyhyk]
 [T_WORD:RANSACK:di]
-
 [T_WORD:RAPTOR:zyhat]
 [T_WORD:RAT:yihathepiz]
 [T_WORD:RAUNCH:mezim]
@@ -780,14 +771,12 @@ language_RAVENMAN
 [T_WORD:SLIVER:terus]
 [T_WORD:SLOTH:zuchadosh]
 [T_WORD:SLUG:chuxay]
-
 [T_WORD:SMASH:dubatib]
 [T_WORD:SMILE:chovypuxen]
 [T_WORD:SMITH:ketebuchah]
 [T_WORD:SMOKE:zuducepabat]
 [T_WORD:SMOOTH:nyth]
 [T_WORD:SMOULDER:buth]
-
 [T_WORD:SNACK:bolix]
 [T_WORD:SNAKE:kal]
 [T_WORD:SNEER:chi]
@@ -805,7 +794,6 @@ language_RAVENMAN
 [T_WORD:SPAWN:deshidyt]
 [T_WORD:SPEAR:gor]
 [T_WORD:SPELL:tinet]
-
 [T_WORD:SPICE:ganih]
 [T_WORD:SPIDER:huthug]
 [T_WORD:SPIDERY:kam]
@@ -956,7 +944,6 @@ language_RAVENMAN
 [T_WORD:VIPER:dromapay]
 [T_WORD:VOICE:hiwepad]
 [T_WORD:VOID:chyshotath]
-
 [T_WORD:VOLCANO:nacumik]
 [T_WORD:VOMIT:ricezosh]
 [T_WORD:VULTURE:mynack]
@@ -985,7 +972,6 @@ language_RAVENMAN
 [T_WORD:WHISKY:talamuy]
 [T_WORD:WHISPER:pokachasosh]
 [T_WORD:WHITE:zexegyyew]
-
 [T_WORD:WICKED:bytiyiw]
 [T_WORD:WILD:yebushod]
 [T_WORD:WILL:gochimadithith]
@@ -1005,7 +991,6 @@ language_RAVENMAN
 [T_WORD:YEAR:labash]
 [T_WORD:YEARLING:myxytoz]
 [T_WORD:YELLOW:drattor]
-
 [T_WORD:YOUNG:machathyck]
 [T_WORD:YOUTH:matazuy]
 [T_WORD:ZEAL:wesukecof]
@@ -1288,7 +1273,6 @@ language_RAVENMAN
 [T_WORD:CONVENIENT:zorahafoz]
 [T_WORD:INCONSIDERATE:gocuchopiz]
 [T_WORD:CONTINENT:drorof]
-
 [T_WORD:FLIGHT:ruk]
 [T_WORD:FLIGHTY:cucick]
 [T_WORD:GILD:caxirych]
@@ -1344,7 +1328,6 @@ language_RAVENMAN
 [T_WORD:PEAR:zibuck]
 [T_WORD:THIMBLE:bitokad]
 [T_WORD:BUNNY:chyzac]
-
 [T_WORD:ROPE:wonirozik]
 [T_WORD:STRING:zykob]
 [T_WORD:WIRE:miyexach]

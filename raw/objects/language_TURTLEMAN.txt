@@ -12,7 +12,6 @@ language_TURTLEMAN
 [T_WORD:ANGEL:bromyanmeci]
 [T_WORD:ANGER:sunbirne]
 [T_WORD:ANIMAL:drxaykiyso]
-
 [T_WORD:APE:ikdotmeco]
 [T_WORD:APPLE:ayma]
 [T_WORD:ARCH:dvikrek]
@@ -50,7 +49,6 @@ language_TURTLEMAN
 [T_WORD:BILE:yequfo]
 [T_WORD:BIN:emyodo]
 [T_WORD:BIRD:bu]
-
 [T_WORD:BLACK:pneythat]
 [T_WORD:BLADE:uba]
 [T_WORD:BLAZE:yawo]
@@ -182,7 +180,6 @@ language_TURTLEMAN
 [T_WORD:CROSS_ADJ:arreyu]
 [T_WORD:CROW:eyxiyxeyi]
 [T_WORD:CROWN:axmer]
-
 [T_WORD:CRUCIFY:umgey]
 [T_WORD:CRUMBLE:omkabko]
 [T_WORD:CRUSH:amyen]
@@ -431,7 +428,6 @@ language_TURTLEMAN
 [T_WORD:ILL:ynunyoye]
 [T_WORD:IMPURE:oyza]
 [T_WORD:INCENSE:sufmit]
-
 [T_WORD:INCH:imnemneck]
 [T_WORD:INK:usvim]
 [T_WORD:INN:quoyti]
@@ -578,8 +574,6 @@ language_TURTLEMAN
 [T_WORD:NOOSE:ewthojsat]
 [T_WORD:NORTH:inya]
 [T_WORD:NOSE:eytasso]
-
-
 [T_WORD:NULL:ekvuvyedvi]
 [T_WORD:NUMBER:umwera]
 [T_WORD:NURTURE:ethzen]
@@ -608,7 +602,6 @@ language_TURTLEMAN
 [T_WORD:PAINT:iba]
 [T_WORD:PALE:nifzenu]
 [T_WORD:PALM:shekso]
-
 [T_WORD:PANT:patnoybe]
 [T_WORD:PANTHER:eythaknartick]
 [T_WORD:PANTS:jyoyrisnam]
@@ -618,7 +611,6 @@ language_TURTLEMAN
 [T_WORD:PEPPER:ynasmazmo]
 [T_WORD:PHLEGM:nnami]
 [T_WORD:PIG:ozyiymem]
-
 [T_WORD:PIT:oyvete]
 [T_WORD:PITCH:zejneyo]
 [T_WORD:PLAGUE:ykuri]
@@ -666,7 +658,6 @@ language_TURTLEMAN
 [T_WORD:RAMPAGE:nikmiwgeji]
 [T_WORD:RANDOM:eve]
 [T_WORD:RANSACK:bbuvvabze]
-
 [T_WORD:RAPTOR:eytownayzo]
 [T_WORD:RAT:bmicquiye]
 [T_WORD:RAUNCH:ezyot]
@@ -782,14 +773,12 @@ language_TURTLEMAN
 [T_WORD:SLIVER:kezyimneypi]
 [T_WORD:SLOTH:nbez]
 [T_WORD:SLUG:druma]
-
 [T_WORD:SMASH:bridma]
 [T_WORD:SMILE:tele]
 [T_WORD:SMITH:eyleykeze]
 [T_WORD:SMOKE:drraksexe]
 [T_WORD:SMOOTH:mekwa]
 [T_WORD:SMOULDER:kabthe]
-
 [T_WORD:SNACK:drkiynimo]
 [T_WORD:SNAKE:bmec]
 [T_WORD:SNEER:mtose]
@@ -807,7 +796,6 @@ language_TURTLEMAN
 [T_WORD:SPAWN:ivsensil]
 [T_WORD:SPEAR:ytoz]
 [T_WORD:SPELL:kecyeth]
-
 [T_WORD:SPICE:oyyuqumi]
 [T_WORD:SPIDER:athku]
 [T_WORD:SPIDERY:brabyemo]
@@ -958,7 +946,6 @@ language_TURTLEMAN
 [T_WORD:VIPER:drzatmade]
 [T_WORD:VOICE:emyock]
 [T_WORD:VOID:epyivta]
-
 [T_WORD:VOLCANO:athazyu]
 [T_WORD:VOMIT:emnemni]
 [T_WORD:VULTURE:nyithu]
@@ -986,7 +973,6 @@ language_TURTLEMAN
 [T_WORD:WHISKY:drcisko]
 [T_WORD:WHISPER:icyozmeni]
 [T_WORD:WHITE:apqueru]
-
 [T_WORD:WICKED:xquije]
 [T_WORD:WILD:gishzotka]
 [T_WORD:WILL:ncakmenzi]
@@ -1006,7 +992,6 @@ language_TURTLEMAN
 [T_WORD:YEAR:lxemmut]
 [T_WORD:YEARLING:mwili]
 [T_WORD:YELLOW:akyoy]
-
 [T_WORD:YOUNG:syam]
 [T_WORD:YOUTH:braksay]
 [T_WORD:ZEAL:imde]
@@ -1295,7 +1280,6 @@ language_TURTLEMAN
 [T_WORD:INCONSIDERATE:myocmanbij]
 [T_WORD:INCONVENIENT:sijra]
 [T_WORD:CONTINENT:drad]
-
 [T_WORD:FLIGHT:hyak]
 [T_WORD:FLIGHTY:amdapyeji]
 [T_WORD:GILD:mimxon]
@@ -1351,7 +1335,6 @@ language_TURTLEMAN
 [T_WORD:PEAR:inyake]
 [T_WORD:THIMBLE:enyekce]
 [T_WORD:BUNNY:ypihe]
-
 [T_WORD:ROPE:nenkova]
 [T_WORD:STRING:ekshukkance]
 [T_WORD:WIRE:ibmaytupe]

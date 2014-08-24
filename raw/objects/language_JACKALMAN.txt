@@ -12,7 +12,6 @@ language_JACKELMAN
 [T_WORD:ANGEL:ehojalu]
 [T_WORD:ANGER:ezofo]
 [T_WORD:ANIMAL:owazee]
-
 [T_WORD:APE:omiganafi]
 [T_WORD:APPLE:ishameo]
 [T_WORD:ARCH:anewathahoho]
@@ -50,7 +49,6 @@ language_JACKELMAN
 [T_WORD:BILE:iyete]
 [T_WORD:BIN:ezohotalo]
 [T_WORD:BIRD:avamaha]
-
 [T_WORD:BLACK:evoo]
 [T_WORD:BLADE:ehodalothi]
 [T_WORD:BLAZE:ehavo]
@@ -180,7 +178,6 @@ language_JACKELMAN
 [T_WORD:CROSS_ADJ:uthai]
 [T_WORD:CROW:etathethona]
 [T_WORD:CROWN:emileo]
-
 [T_WORD:CRUCIFY:aroyavi]
 [T_WORD:CRUMBLE:aleyitoshea]
 [T_WORD:CRUSH:oname]
@@ -425,7 +422,6 @@ language_JACKELMAN
 [T_WORD:ILL:ayogovu]
 [T_WORD:IMPURE:alolovoseo]
 [T_WORD:INCENSE:iyee]
-
 [T_WORD:INCH:ihaboa]
 [T_WORD:INK:ozoo]
 [T_WORD:INN:otayizabitho]
@@ -566,8 +562,6 @@ language_JACKELMAN
 [T_WORD:NOBLE:evovao]
 [T_WORD:NORTH:urajoa]
 [T_WORD:NOSE:ogakaxoo]
-
-
 [T_WORD:NULL:ilei]
 [T_WORD:NUMBER:enoe]
 [T_WORD:NURTURE:anashishui]
@@ -595,7 +589,6 @@ language_JACKELMAN
 [T_WORD:PAINT:oyonie]
 [T_WORD:PALE:alonoi]
 [T_WORD:PALM:ohi]
-
 [T_WORD:PANT:aranalai]
 [T_WORD:PANTHER:iyililorea]
 [T_WORD:PANTS:etapelashe]
@@ -605,7 +598,6 @@ language_JACKELMAN
 [T_WORD:PEPPER:owashomoboa]
 [T_WORD:PHLEGM:ocezosoa]
 [T_WORD:PIG:ovafatolio]
-
 [T_WORD:PIT:owimeyaso]
 [T_WORD:PITCH:amomiso]
 [T_WORD:PLAGUE:ojoi]
@@ -650,7 +642,6 @@ language_JACKELMAN
 [T_WORD:RAMPAGE:iboloo]
 [T_WORD:RANDOM:odivio]
 [T_WORD:RANSACK:owanohohea]
-
 [T_WORD:RAPTOR:otemeo]
 [T_WORD:RAT:emewevao]
 [T_WORD:RAUNCH:ahuwowewia]
@@ -760,7 +751,6 @@ language_JACKELMAN
 [T_WORD:SLIVER:eyeshoraa]
 [T_WORD:SLOTH:itoreva]
 [T_WORD:SLUG:oratonoho]
-
 [T_WORD:SMASH:aloyeshao]
 [T_WORD:SMILE:otoo]
 [T_WORD:SMITH:atia]
@@ -782,7 +772,6 @@ language_JACKELMAN
 [T_WORD:SPAWN:owivu]
 [T_WORD:SPEAR:amohayeu]
 [T_WORD:SPELL:obacawoe]
-
 [T_WORD:SPICE:onanano]
 [T_WORD:SPIDER:onucomai]
 [T_WORD:SPIDERY:atanushai]
@@ -932,7 +921,6 @@ language_JACKELMAN
 [T_WORD:VIPER:ihohosou]
 [T_WORD:VOICE:avoze]
 [T_WORD:VOID:ayateo]
-
 [T_WORD:VOLCANO:owo]
 [T_WORD:VOMIT:ohehuhe]
 [T_WORD:VULTURE:ahoyawa]
@@ -960,7 +948,6 @@ language_JACKELMAN
 [T_WORD:WHISKY:enawofuthoo]
 [T_WORD:WHISPER:olawoa]
 [T_WORD:WHITE:arayo]
-
 [T_WORD:WICKED:edawosava]
 [T_WORD:WILD:uhoshaye]
 [T_WORD:WILL:ahahai]
@@ -979,7 +966,6 @@ language_JACKELMAN
 [T_WORD:YARN:itewuu]
 [T_WORD:YEAR:ohotahalao]
 [T_WORD:YEARLING:amawi]
-
 [T_WORD:YOUNG:eshitebahane]
 [T_WORD:YOUTH:iburoo]
 [T_WORD:ZEAL:uo]
@@ -1312,7 +1298,6 @@ language_JACKELMAN
 [T_WORD:PEAR:ahalathohuo]
 [T_WORD:THIMBLE:ofalao]
 [T_WORD:BUNNY:ahao]
-
 [T_WORD:ROPE:etonushimo]
 [T_WORD:STRING:osehara]
 [T_WORD:WIRE:eshio]

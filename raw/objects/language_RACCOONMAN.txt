@@ -12,7 +12,6 @@ language_RACCOONMAN
 [T_WORD:ANGEL:ai]
 [T_WORD:ANGER:ababakoo]
 [T_WORD:ANIMAL:oyocolara]
-
 [T_WORD:APE:elo]
 [T_WORD:APPLE:hapedishiu]
 [T_WORD:ARCH:wubalu]
@@ -50,7 +49,6 @@ language_RACCOONMAN
 [T_WORD:BILE:jasha]
 [T_WORD:BIN:iha]
 [T_WORD:BIRD:favoxe]
-
 [T_WORD:BLACK:icaa]
 [T_WORD:BLADE:caf'sacedaa]
 [T_WORD:BLAZE:ajategu]
@@ -182,7 +180,6 @@ language_RACCOONMAN
 [T_WORD:CROSS_ADJ:lojaa]
 [T_WORD:CROW:calasecoa]
 [T_WORD:CROWN:aruhadu]
-
 [T_WORD:CRUCIFY:ajaha]
 [T_WORD:CRUMBLE:unora]
 [T_WORD:CRUSH:aduo]
@@ -431,7 +428,6 @@ language_RACCOONMAN
 [T_WORD:ILL:rihojatoo]
 [T_WORD:IMPURE:wohia]
 [T_WORD:INCENSE:fan'za]
-
 [T_WORD:INCH:fuwaja]
 [T_WORD:INK:soshapo]
 [T_WORD:INN:lar'wee]
@@ -574,8 +570,6 @@ language_RACCOONMAN
 [T_WORD:NOOSE:morokacaa]
 [T_WORD:NORTH:owacopou]
 [T_WORD:NOSE:lou]
-
-
 [T_WORD:NULL:awawepohe]
 [T_WORD:NUMBER:tiwuyoo]
 [T_WORD:NURTURE:hojohaxeu]
@@ -604,7 +598,6 @@ language_RACCOONMAN
 [T_WORD:PAINT:ofade]
 [T_WORD:PALE:lenasuyahou]
 [T_WORD:PALM:hatorao]
-
 [T_WORD:PANTHER:ashohoji]
 [T_WORD:PANTS:ogida]
 [T_WORD:PAPER:tazido]
@@ -613,7 +606,6 @@ language_RACCOONMAN
 [T_WORD:PEPPER:idia]
 [T_WORD:PHLEGM:jesujebio]
 [T_WORD:PIG:avaa]
-
 [T_WORD:PIT:dapicao]
 [T_WORD:PITCH:sae]
 [T_WORD:PLANT:oputusa]
@@ -659,7 +651,6 @@ language_RACCOONMAN
 [T_WORD:RAMPAGE:eho]
 [T_WORD:RANDOM:wojo]
 [T_WORD:RANSACK:iwawo]
-
 [T_WORD:RAPTOR:alojaso]
 [T_WORD:RAT:pedoa]
 [T_WORD:RAUNCH:anacuthaca]
@@ -772,14 +763,12 @@ language_RACCOONMAN
 [T_WORD:SLIVER:ahijosho]
 [T_WORD:SLOTH:puraa]
 [T_WORD:SLUG:eloh'o]
-
 [T_WORD:SMASH:ca]
 [T_WORD:SMILE:aya]
 [T_WORD:SMITH:xowojao]
 [T_WORD:SMOKE:kodaki]
 [T_WORD:SMOOTH:ao]
 [T_WORD:SMOULDER:zodacia]
-
 [T_WORD:SNACK:ebofae]
 [T_WORD:SNAKE:da]
 [T_WORD:SNEER:piwigoradu]
@@ -797,7 +786,6 @@ language_RACCOONMAN
 [T_WORD:SPAWN:leweco]
 [T_WORD:SPEAR:canaxonora]
 [T_WORD:SPELL:atetasatalo]
-
 [T_WORD:SPICE:ahalasa]
 [T_WORD:SPIDER:carahoso]
 [T_WORD:SPIDERY:rop'rau]
@@ -948,7 +936,6 @@ language_RACCOONMAN
 [T_WORD:VIPER:ososa]
 [T_WORD:VOICE:dawofofo]
 [T_WORD:VOID:ashoro]
-
 [T_WORD:VOLCANO:oh'poo]
 [T_WORD:VOMIT:amotaha]
 [T_WORD:VULTURE:voxacia]
@@ -976,7 +963,6 @@ language_RACCOONMAN
 [T_WORD:WHISKY:josapao]
 [T_WORD:WHISPER:roropou]
 [T_WORD:WHITE:oponio]
-
 [T_WORD:WICKED:ocaciloa]
 [T_WORD:WILD:osuyeliyoo]
 [T_WORD:WILL:fahaa]
@@ -996,7 +982,6 @@ language_RACCOONMAN
 [T_WORD:YEAR:usonipu]
 [T_WORD:YEARLING:ifolahuto]
 [T_WORD:YELLOW:hajoa]
-
 [T_WORD:YOUNG:shiraa]
 [T_WORD:YOUTH:asotae]
 [T_WORD:ZEAL:afacurua]
@@ -1275,7 +1260,6 @@ language_RACCOONMAN
 [T_WORD:INCONSIDERATE:utopii]
 [T_WORD:INCONVENIENT:cerumozou]
 [T_WORD:CONTINENT:jad'gei]
-
 [T_WORD:FLIGHT:hohodau]
 [T_WORD:FLIGHTY:wacidawai]
 [T_WORD:GILD:urowae]
@@ -1331,7 +1315,6 @@ language_RACCOONMAN
 [T_WORD:PEAR:hawafofopa]
 [T_WORD:THIMBLE:afohafae]
 [T_WORD:BUNNY:r'rotatha]
-
 [T_WORD:ROPE:awokofalo]
 [T_WORD:STRING:hubasocoi]
 [T_WORD:WIRE:okoo]

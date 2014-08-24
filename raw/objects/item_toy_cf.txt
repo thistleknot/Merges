@@ -1,7 +1,7 @@
 item_toy_cf
 [OBJECT:ITEM]
-[ITEM_TOY:ITEM_TOY_TUBE]
+[TOY:ITEM_TOY]
 [NAME:transport tube:transport tubes]
 [HARD_MAT]
-[ITEM_TOY:ITEM_TOY_DOLL]
+[TOY:ITEM_TOY]
 [NAME:doll:dolls]

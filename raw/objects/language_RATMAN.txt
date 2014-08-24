@@ -12,7 +12,6 @@ language_RATMAN
 [T_WORD:ANGEL:gad]
 [T_WORD:ANGER:atataraja]
 [T_WORD:ANIMAL:ara]
-
 [T_WORD:APE:mirabalemush]
 [T_WORD:APPLE:ebanita]
 [T_WORD:ARCH:brekate]
@@ -50,7 +49,6 @@ language_RATMAN
 [T_WORD:BILE:rithe]
 [T_WORD:BIN:epimysak]
 [T_WORD:BIRD:helirysick]
-
 [T_WORD:BLACK:othedebi]
 [T_WORD:BLADE:shihato]
 [T_WORD:BLAZE:erihathiti]
@@ -183,7 +181,6 @@ language_RATMAN
 [T_WORD:CROSS_ADJ:thahomeba]
 [T_WORD:CROW:ethesh]
 [T_WORD:CROWN:ketefas]
-
 [T_WORD:CRUCIFY:kabamerer]
 [T_WORD:CRUMBLE:kamah]
 [T_WORD:CRUSH:zyraner]
@@ -430,7 +427,6 @@ language_RATMAN
 [T_WORD:ILL:egirab]
 [T_WORD:IMPURE:tehathenah]
 [T_WORD:INCENSE:rishure]
-
 [T_WORD:INCH:amekokabib]
 [T_WORD:INK:mariraba]
 [T_WORD:INN:akabisi]
@@ -576,8 +572,6 @@ language_RATMAN
 [T_WORD:NOOSE:brapith]
 [T_WORD:NORTH:ihash]
 [T_WORD:NOSE:taneneresh]
-
-
 [T_WORD:NULL:nahana]
 [T_WORD:NUMBER:lar]
 [T_WORD:NURTURE:imeheshoma]
@@ -605,7 +599,6 @@ language_RATMAN
 [T_WORD:PAINT:ihakabejar]
 [T_WORD:PALE:fereram]
 [T_WORD:PALM:drylim]
-
 [T_WORD:PANT:thiji]
 [T_WORD:PANTHER:lathatat]
 [T_WORD:PANTS:erahirateta]
@@ -615,7 +608,6 @@ language_RATMAN
 [T_WORD:PEPPER:nelah]
 [T_WORD:PHLEGM:akaberypip]
 [T_WORD:PIG:kefabaze]
-
 [T_WORD:PIT:ibemikidy]
 [T_WORD:PITCH:ekaripuyath]
 [T_WORD:PLAGUE:batilima]
@@ -662,7 +654,6 @@ language_RATMAN
 [T_WORD:RAMPAGE:shasi]
 [T_WORD:RANDOM:denetyshesh]
 [T_WORD:RANSACK:ilema]
-
 [T_WORD:RAPTOR:fekyshes]
 [T_WORD:RAT:widap]
 [T_WORD:RAUNCH:themekak]
@@ -773,14 +764,12 @@ language_RATMAN
 [T_WORD:SLIVER:ani]
 [T_WORD:SLOTH:ehihethac]
 [T_WORD:SLUG:inisiw]
-
 [T_WORD:SMASH:itashar]
 [T_WORD:SMILE:desitide]
 [T_WORD:SMITH:dranarase]
 [T_WORD:SMOKE:bidashata]
 [T_WORD:SMOOTH:ekin]
 [T_WORD:SMOULDER:razaja]
-
 [T_WORD:SNACK:tila]
 [T_WORD:SNAKE:narishirire]
 [T_WORD:SNEER:asathuba]
@@ -798,7 +787,6 @@ language_RATMAN
 [T_WORD:SPAWN:akisheb]
 [T_WORD:SPEAR:ategarad]
 [T_WORD:SPELL:akega]
-
 [T_WORD:SPICE:fenaxapi]
 [T_WORD:SPIDER:ematerabame]
 [T_WORD:SPIDERY:nari]
@@ -946,7 +934,6 @@ language_RATMAN
 [T_WORD:VIPER:animadezak]
 [T_WORD:VOICE:tesiba]
 [T_WORD:VOID:akabe]
-
 [T_WORD:VOLCANO:potiti]
 [T_WORD:VOMIT:ahetish]
 [T_WORD:VULTURE:dratataraf]
@@ -975,7 +962,6 @@ language_RATMAN
 [T_WORD:WHISKY:iwibedim]
 [T_WORD:WHISPER:yushararakef]
 [T_WORD:WHITE:gayin]
-
 [T_WORD:WICKED:dikathemavab]
 [T_WORD:WILD:afawaricih]
 [T_WORD:WILL:tashysha]
@@ -995,7 +981,6 @@ language_RATMAN
 [T_WORD:YEAR:bexavothi]
 [T_WORD:YEARLING:pidi]
 [T_WORD:YELLOW:enyneheme]
-
 [T_WORD:YOUNG:etiny]
 [T_WORD:YOUTH:ebary]
 [T_WORD:ZEAL:iyizara]
@@ -1283,7 +1268,6 @@ language_RATMAN
 [T_WORD:INCONSIDERATE:eralihesh]
 [T_WORD:INCONVENIENT:ukemu]
 [T_WORD:CONTINENT:thedatatit]
-
 [T_WORD:FLIGHT:rashutyshi]
 [T_WORD:FLIGHTY:drite]
 [T_WORD:GILD:abukesh]
@@ -1339,7 +1323,6 @@ language_RATMAN
 [T_WORD:PEAR:atanabenab]
 [T_WORD:THIMBLE:tath]
 [T_WORD:BUNNY:aresh]
-
 [T_WORD:ROPE:bidiraram]
 [T_WORD:STRING:ashene]
 [T_WORD:WIRE:bi]
