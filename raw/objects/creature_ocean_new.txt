@@ -810,7 +810,7 @@ Horseshoe crabs were sponsored by the generous contributions of the Bay 12 commu
 copper not iron based
 [BLOOD:CREATURE_MAT:ANIMAL:ICHOR:LIQUID]
 copper not iron based
-[BLOOD:LOCAL_CREATURE_MAT:BLOOD:LIQUID]
+[BLOOD:CREATURE_MAT:ANIMAL:BLOOD:LIQUID]
 [CREATURE_CLASS:GENERAL_POISON]
 [GETS_WOUND_INFECTIONS]
 [GETS_INFECTIONS_FROM_ROT]
